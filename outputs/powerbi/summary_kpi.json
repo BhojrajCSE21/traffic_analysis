@@ -1,0 +1,12 @@
+{
+  "Total Accidents": 563011,
+  "Total Deaths": 215782,
+  "Total Injured": 515210,
+  "Average Fatality Rate": 41.79,
+  "Average Injury Rate": 90.65,
+  "Highest Fatality State": "Varanasi",
+  "Highest Accident State": "Tamil Nadu",
+  "Number of States": 89,
+  "Peak Time Slot": "18:00-21:00",
+  "Peak Month": "May"
+}

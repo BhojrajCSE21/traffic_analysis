@@ -1,0 +1,745 @@
+State,TimeDimension,Accidents,DataType,Period,DayNight,TimeOrder
+Andhra Pradesh,00:00-03:00,991,TimeSlot,00:00-03:00,Night,0
+Andhra Pradesh,03:00-06:00,1143,TimeSlot,03:00-06:00,Night,1
+Andhra Pradesh,06:00-09:00,2256,TimeSlot,06:00-09:00,Day,2
+Andhra Pradesh,09:00-12:00,2704,TimeSlot,09:00-12:00,Day,3
+Andhra Pradesh,12:00-15:00,3058,TimeSlot,12:00-15:00,Day,4
+Andhra Pradesh,15:00-18:00,3403,TimeSlot,15:00-18:00,Day,5
+Andhra Pradesh,18:00-21:00,4255,TimeSlot,18:00-21:00,Night,6
+Andhra Pradesh,21:00-24:00,2139,TimeSlot,21:00-24:00,Night,7
+Arunachal Pradesh,00:00-03:00,18,TimeSlot,00:00-03:00,Night,0
+Arunachal Pradesh,03:00-06:00,13,TimeSlot,03:00-06:00,Night,1
+Arunachal Pradesh,06:00-09:00,23,TimeSlot,06:00-09:00,Day,2
+Arunachal Pradesh,09:00-12:00,22,TimeSlot,09:00-12:00,Day,3
+Arunachal Pradesh,12:00-15:00,36,TimeSlot,12:00-15:00,Day,4
+Arunachal Pradesh,15:00-18:00,55,TimeSlot,15:00-18:00,Day,5
+Arunachal Pradesh,18:00-21:00,46,TimeSlot,18:00-21:00,Night,6
+Arunachal Pradesh,21:00-24:00,20,TimeSlot,21:00-24:00,Night,7
+Assam,00:00-03:00,346,TimeSlot,00:00-03:00,Night,0
+Assam,03:00-06:00,389,TimeSlot,03:00-06:00,Night,1
+Assam,06:00-09:00,889,TimeSlot,06:00-09:00,Day,2
+Assam,09:00-12:00,1025,TimeSlot,09:00-12:00,Day,3
+Assam,12:00-15:00,1051,TimeSlot,12:00-15:00,Day,4
+Assam,15:00-18:00,1327,TimeSlot,15:00-18:00,Day,5
+Assam,18:00-21:00,1294,TimeSlot,18:00-21:00,Night,6
+Assam,21:00-24:00,1100,TimeSlot,21:00-24:00,Night,7
+Bihar,00:00-03:00,701,TimeSlot,00:00-03:00,Night,0
+Bihar,03:00-06:00,937,TimeSlot,03:00-06:00,Night,1
+Bihar,06:00-09:00,1674,TimeSlot,06:00-09:00,Day,2
+Bihar,09:00-12:00,1606,TimeSlot,09:00-12:00,Day,3
+Bihar,12:00-15:00,1525,TimeSlot,12:00-15:00,Day,4
+Bihar,15:00-18:00,1818,TimeSlot,15:00-18:00,Day,5
+Bihar,18:00-21:00,1803,TimeSlot,18:00-21:00,Night,6
+Bihar,21:00-24:00,950,TimeSlot,21:00-24:00,Night,7
+Chhattisgarh,00:00-03:00,464,TimeSlot,00:00-03:00,Night,0
+Chhattisgarh,03:00-06:00,406,TimeSlot,03:00-06:00,Night,1
+Chhattisgarh,06:00-09:00,1067,TimeSlot,06:00-09:00,Day,2
+Chhattisgarh,09:00-12:00,1990,TimeSlot,09:00-12:00,Day,3
+Chhattisgarh,12:00-15:00,2211,TimeSlot,12:00-15:00,Day,4
+Chhattisgarh,15:00-18:00,2534,TimeSlot,15:00-18:00,Day,5
+Chhattisgarh,18:00-21:00,3279,TimeSlot,18:00-21:00,Night,6
+Chhattisgarh,21:00-24:00,1518,TimeSlot,21:00-24:00,Night,7
+Goa,00:00-03:00,213,TimeSlot,00:00-03:00,Night,0
+Goa,03:00-06:00,152,TimeSlot,03:00-06:00,Night,1
+Goa,06:00-09:00,255,TimeSlot,06:00-09:00,Day,2
+Goa,09:00-12:00,426,TimeSlot,09:00-12:00,Day,3
+Goa,12:00-15:00,428,TimeSlot,12:00-15:00,Day,4
+Goa,15:00-18:00,482,TimeSlot,15:00-18:00,Day,5
+Goa,18:00-21:00,542,TimeSlot,18:00-21:00,Night,6
+Goa,21:00-24:00,349,TimeSlot,21:00-24:00,Night,7
+Gujarat,00:00-03:00,910,TimeSlot,00:00-03:00,Night,0
+Gujarat,03:00-06:00,700,TimeSlot,03:00-06:00,Night,1
+Gujarat,06:00-09:00,1597,TimeSlot,06:00-09:00,Day,2
+Gujarat,09:00-12:00,2373,TimeSlot,09:00-12:00,Day,3
+Gujarat,12:00-15:00,2527,TimeSlot,12:00-15:00,Day,4
+Gujarat,15:00-18:00,2719,TimeSlot,15:00-18:00,Day,5
+Gujarat,18:00-21:00,3505,TimeSlot,18:00-21:00,Night,6
+Gujarat,21:00-24:00,2018,TimeSlot,21:00-24:00,Night,7
+Haryana,00:00-03:00,943,TimeSlot,00:00-03:00,Night,0
+Haryana,03:00-06:00,953,TimeSlot,03:00-06:00,Night,1
+Haryana,06:00-09:00,1243,TimeSlot,06:00-09:00,Day,2
+Haryana,09:00-12:00,1529,TimeSlot,09:00-12:00,Day,3
+Haryana,12:00-15:00,1447,TimeSlot,12:00-15:00,Day,4
+Haryana,15:00-18:00,1534,TimeSlot,15:00-18:00,Day,5
+Haryana,18:00-21:00,2007,TimeSlot,18:00-21:00,Night,6
+Haryana,21:00-24:00,1427,TimeSlot,21:00-24:00,Night,7
+Himachal Pradesh,00:00-03:00,133,TimeSlot,00:00-03:00,Night,0
+Himachal Pradesh,03:00-06:00,82,TimeSlot,03:00-06:00,Night,1
+Himachal Pradesh,06:00-09:00,182,TimeSlot,06:00-09:00,Day,2
+Himachal Pradesh,09:00-12:00,273,TimeSlot,09:00-12:00,Day,3
+Himachal Pradesh,12:00-15:00,321,TimeSlot,12:00-15:00,Day,4
+Himachal Pradesh,15:00-18:00,430,TimeSlot,15:00-18:00,Day,5
+Himachal Pradesh,18:00-21:00,511,TimeSlot,18:00-21:00,Night,6
+Himachal Pradesh,21:00-24:00,323,TimeSlot,21:00-24:00,Night,7
+Jharkhand,00:00-03:00,304,TimeSlot,00:00-03:00,Night,0
+Jharkhand,03:00-06:00,314,TimeSlot,03:00-06:00,Night,1
+Jharkhand,06:00-09:00,617,TimeSlot,06:00-09:00,Day,2
+Jharkhand,09:00-12:00,700,TimeSlot,09:00-12:00,Day,3
+Jharkhand,12:00-15:00,824,TimeSlot,12:00-15:00,Day,4
+Jharkhand,15:00-18:00,982,TimeSlot,15:00-18:00,Day,5
+Jharkhand,18:00-21:00,1111,TimeSlot,18:00-21:00,Night,6
+Jharkhand,21:00-24:00,464,TimeSlot,21:00-24:00,Night,7
+Karnataka,00:00-03:00,2312,TimeSlot,00:00-03:00,Night,0
+Karnataka,03:00-06:00,2370,TimeSlot,03:00-06:00,Night,1
+Karnataka,06:00-09:00,4005,TimeSlot,06:00-09:00,Day,2
+Karnataka,09:00-12:00,5908,TimeSlot,09:00-12:00,Day,3
+Karnataka,12:00-15:00,6706,TimeSlot,12:00-15:00,Day,4
+Karnataka,15:00-18:00,7545,TimeSlot,15:00-18:00,Day,5
+Karnataka,18:00-21:00,9265,TimeSlot,18:00-21:00,Night,6
+Karnataka,21:00-24:00,5328,TimeSlot,21:00-24:00,Night,7
+Kerala,00:00-03:00,1103,TimeSlot,00:00-03:00,Night,0
+Kerala,03:00-06:00,1495,TimeSlot,03:00-06:00,Night,1
+Kerala,06:00-09:00,5411,TimeSlot,06:00-09:00,Day,2
+Kerala,09:00-12:00,8282,TimeSlot,09:00-12:00,Day,3
+Kerala,12:00-15:00,7063,TimeSlot,12:00-15:00,Day,4
+Kerala,15:00-18:00,8937,TimeSlot,15:00-18:00,Day,5
+Kerala,18:00-21:00,9542,TimeSlot,18:00-21:00,Night,6
+Kerala,21:00-24:00,4148,TimeSlot,21:00-24:00,Night,7
+Madhya Pradesh,00:00-03:00,3330,TimeSlot,00:00-03:00,Night,0
+Madhya Pradesh,03:00-06:00,2714,TimeSlot,03:00-06:00,Night,1
+Madhya Pradesh,06:00-09:00,4468,TimeSlot,06:00-09:00,Day,2
+Madhya Pradesh,09:00-12:00,7476,TimeSlot,09:00-12:00,Day,3
+Madhya Pradesh,12:00-15:00,9217,TimeSlot,12:00-15:00,Day,4
+Madhya Pradesh,15:00-18:00,10227,TimeSlot,15:00-18:00,Day,5
+Madhya Pradesh,18:00-21:00,10613,TimeSlot,18:00-21:00,Night,6
+Madhya Pradesh,21:00-24:00,6718,TimeSlot,21:00-24:00,Night,7
+Maharashtra,00:00-03:00,2065,TimeSlot,00:00-03:00,Night,0
+Maharashtra,03:00-06:00,2000,TimeSlot,03:00-06:00,Night,1
+Maharashtra,06:00-09:00,3005,TimeSlot,06:00-09:00,Day,2
+Maharashtra,09:00-12:00,4288,TimeSlot,09:00-12:00,Day,3
+Maharashtra,12:00-15:00,4612,TimeSlot,12:00-15:00,Day,4
+Maharashtra,15:00-18:00,4892,TimeSlot,15:00-18:00,Day,5
+Maharashtra,18:00-21:00,6368,TimeSlot,18:00-21:00,Night,6
+Maharashtra,21:00-24:00,4117,TimeSlot,21:00-24:00,Night,7
+Manipur,00:00-03:00,12,TimeSlot,00:00-03:00,Night,0
+Manipur,03:00-06:00,5,TimeSlot,03:00-06:00,Night,1
+Manipur,06:00-09:00,27,TimeSlot,06:00-09:00,Day,2
+Manipur,09:00-12:00,50,TimeSlot,09:00-12:00,Day,3
+Manipur,12:00-15:00,58,TimeSlot,12:00-15:00,Day,4
+Manipur,15:00-18:00,90,TimeSlot,15:00-18:00,Day,5
+Manipur,18:00-21:00,113,TimeSlot,18:00-21:00,Night,6
+Manipur,21:00-24:00,43,TimeSlot,21:00-24:00,Night,7
+Meghalaya,00:00-03:00,11,TimeSlot,00:00-03:00,Night,0
+Meghalaya,03:00-06:00,10,TimeSlot,03:00-06:00,Night,1
+Meghalaya,06:00-09:00,20,TimeSlot,06:00-09:00,Day,2
+Meghalaya,09:00-12:00,39,TimeSlot,09:00-12:00,Day,3
+Meghalaya,12:00-15:00,32,TimeSlot,12:00-15:00,Day,4
+Meghalaya,15:00-18:00,48,TimeSlot,15:00-18:00,Day,5
+Meghalaya,18:00-21:00,46,TimeSlot,18:00-21:00,Night,6
+Meghalaya,21:00-24:00,26,TimeSlot,21:00-24:00,Night,7
+Mizoram,00:00-03:00,4,TimeSlot,00:00-03:00,Night,0
+Mizoram,03:00-06:00,3,TimeSlot,03:00-06:00,Night,1
+Mizoram,06:00-09:00,4,TimeSlot,06:00-09:00,Day,2
+Mizoram,09:00-12:00,6,TimeSlot,09:00-12:00,Day,3
+Mizoram,12:00-15:00,4,TimeSlot,12:00-15:00,Day,4
+Mizoram,15:00-18:00,12,TimeSlot,15:00-18:00,Day,5
+Mizoram,18:00-21:00,9,TimeSlot,18:00-21:00,Night,6
+Mizoram,21:00-24:00,5,TimeSlot,21:00-24:00,Night,7
+Nagaland,00:00-03:00,2,TimeSlot,00:00-03:00,Night,0
+Nagaland,03:00-06:00,5,TimeSlot,03:00-06:00,Night,1
+Nagaland,06:00-09:00,3,TimeSlot,06:00-09:00,Day,2
+Nagaland,09:00-12:00,5,TimeSlot,09:00-12:00,Day,3
+Nagaland,12:00-15:00,5,TimeSlot,12:00-15:00,Day,4
+Nagaland,15:00-18:00,6,TimeSlot,15:00-18:00,Day,5
+Nagaland,18:00-21:00,4,TimeSlot,18:00-21:00,Night,6
+Nagaland,21:00-24:00,5,TimeSlot,21:00-24:00,Night,7
+Odisha,00:00-03:00,735,TimeSlot,00:00-03:00,Night,0
+Odisha,03:00-06:00,916,TimeSlot,03:00-06:00,Night,1
+Odisha,06:00-09:00,1391,TimeSlot,06:00-09:00,Day,2
+Odisha,09:00-12:00,1773,TimeSlot,09:00-12:00,Day,3
+Odisha,12:00-15:00,1782,TimeSlot,12:00-15:00,Day,4
+Odisha,15:00-18:00,2054,TimeSlot,15:00-18:00,Day,5
+Odisha,18:00-21:00,2162,TimeSlot,18:00-21:00,Night,6
+Odisha,21:00-24:00,1176,TimeSlot,21:00-24:00,Night,7
+Punjab,00:00-03:00,337,TimeSlot,00:00-03:00,Night,0
+Punjab,03:00-06:00,382,TimeSlot,03:00-06:00,Night,1
+Punjab,06:00-09:00,651,TimeSlot,06:00-09:00,Day,2
+Punjab,09:00-12:00,857,TimeSlot,09:00-12:00,Day,3
+Punjab,12:00-15:00,780,TimeSlot,12:00-15:00,Day,4
+Punjab,15:00-18:00,921,TimeSlot,15:00-18:00,Day,5
+Punjab,18:00-21:00,1461,TimeSlot,18:00-21:00,Night,6
+Punjab,21:00-24:00,887,TimeSlot,21:00-24:00,Night,7
+Rajasthan,00:00-03:00,980,TimeSlot,00:00-03:00,Night,0
+Rajasthan,03:00-06:00,1195,TimeSlot,03:00-06:00,Night,1
+Rajasthan,06:00-09:00,2605,TimeSlot,06:00-09:00,Day,2
+Rajasthan,09:00-12:00,3503,TimeSlot,09:00-12:00,Day,3
+Rajasthan,12:00-15:00,3947,TimeSlot,12:00-15:00,Day,4
+Rajasthan,15:00-18:00,4764,TimeSlot,15:00-18:00,Day,5
+Rajasthan,18:00-21:00,5229,TimeSlot,18:00-21:00,Night,6
+Rajasthan,21:00-24:00,2638,TimeSlot,21:00-24:00,Night,7
+Sikkim,00:00-03:00,9,TimeSlot,00:00-03:00,Night,0
+Sikkim,03:00-06:00,9,TimeSlot,03:00-06:00,Night,1
+Sikkim,06:00-09:00,15,TimeSlot,06:00-09:00,Day,2
+Sikkim,09:00-12:00,28,TimeSlot,09:00-12:00,Day,3
+Sikkim,12:00-15:00,31,TimeSlot,12:00-15:00,Day,4
+Sikkim,15:00-18:00,34,TimeSlot,15:00-18:00,Day,5
+Sikkim,18:00-21:00,28,TimeSlot,18:00-21:00,Night,6
+Sikkim,21:00-24:00,20,TimeSlot,21:00-24:00,Night,7
+Tamil Nadu,00:00-03:00,1700,TimeSlot,00:00-03:00,Night,0
+Tamil Nadu,03:00-06:00,2792,TimeSlot,03:00-06:00,Night,1
+Tamil Nadu,06:00-09:00,7535,TimeSlot,06:00-09:00,Day,2
+Tamil Nadu,09:00-12:00,9629,TimeSlot,09:00-12:00,Day,3
+Tamil Nadu,12:00-15:00,9770,TimeSlot,12:00-15:00,Day,4
+Tamil Nadu,15:00-18:00,11723,TimeSlot,15:00-18:00,Day,5
+Tamil Nadu,18:00-21:00,17159,TimeSlot,18:00-21:00,Night,6
+Tamil Nadu,21:00-24:00,6905,TimeSlot,21:00-24:00,Night,7
+Telangana,00:00-03:00,1668,TimeSlot,00:00-03:00,Night,0
+Telangana,03:00-06:00,1296,TimeSlot,03:00-06:00,Night,1
+Telangana,06:00-09:00,2129,TimeSlot,06:00-09:00,Day,2
+Telangana,09:00-12:00,2930,TimeSlot,09:00-12:00,Day,3
+Telangana,12:00-15:00,3437,TimeSlot,12:00-15:00,Day,4
+Telangana,15:00-18:00,4198,TimeSlot,15:00-18:00,Day,5
+Telangana,18:00-21:00,4577,TimeSlot,18:00-21:00,Night,6
+Telangana,21:00-24:00,2668,TimeSlot,21:00-24:00,Night,7
+Tripura,00:00-03:00,22,TimeSlot,00:00-03:00,Night,0
+Tripura,03:00-06:00,12,TimeSlot,03:00-06:00,Night,1
+Tripura,06:00-09:00,40,TimeSlot,06:00-09:00,Day,2
+Tripura,09:00-12:00,98,TimeSlot,09:00-12:00,Day,3
+Tripura,12:00-15:00,101,TimeSlot,12:00-15:00,Day,4
+Tripura,15:00-18:00,123,TimeSlot,15:00-18:00,Day,5
+Tripura,18:00-21:00,114,TimeSlot,18:00-21:00,Night,6
+Tripura,21:00-24:00,67,TimeSlot,21:00-24:00,Night,7
+Uttar Pradesh,00:00-03:00,3592,TimeSlot,00:00-03:00,Night,0
+Uttar Pradesh,03:00-06:00,3767,TimeSlot,03:00-06:00,Night,1
+Uttar Pradesh,06:00-09:00,4309,TimeSlot,06:00-09:00,Day,2
+Uttar Pradesh,09:00-12:00,4222,TimeSlot,09:00-12:00,Day,3
+Uttar Pradesh,12:00-15:00,4521,TimeSlot,12:00-15:00,Day,4
+Uttar Pradesh,15:00-18:00,5374,TimeSlot,15:00-18:00,Day,5
+Uttar Pradesh,18:00-21:00,6864,TimeSlot,18:00-21:00,Night,6
+Uttar Pradesh,21:00-24:00,5115,TimeSlot,21:00-24:00,Night,7
+Uttarakhand,00:00-03:00,142,TimeSlot,00:00-03:00,Night,0
+Uttarakhand,03:00-06:00,108,TimeSlot,03:00-06:00,Night,1
+Uttarakhand,06:00-09:00,235,TimeSlot,06:00-09:00,Day,2
+Uttarakhand,09:00-12:00,223,TimeSlot,09:00-12:00,Day,3
+Uttarakhand,12:00-15:00,196,TimeSlot,12:00-15:00,Day,4
+Uttarakhand,15:00-18:00,249,TimeSlot,15:00-18:00,Day,5
+Uttarakhand,18:00-21:00,320,TimeSlot,18:00-21:00,Night,6
+Uttarakhand,21:00-24:00,218,TimeSlot,21:00-24:00,Night,7
+West Bengal,00:00-03:00,1016,TimeSlot,00:00-03:00,Night,0
+West Bengal,03:00-06:00,989,TimeSlot,03:00-06:00,Night,1
+West Bengal,06:00-09:00,1245,TimeSlot,06:00-09:00,Day,2
+West Bengal,09:00-12:00,1414,TimeSlot,09:00-12:00,Day,3
+West Bengal,12:00-15:00,1502,TimeSlot,12:00-15:00,Day,4
+West Bengal,15:00-18:00,1432,TimeSlot,15:00-18:00,Day,5
+West Bengal,18:00-21:00,1506,TimeSlot,18:00-21:00,Night,6
+West Bengal,21:00-24:00,1296,TimeSlot,21:00-24:00,Night,7
+Total (States),00:00-03:00,24063,TimeSlot,00:00-03:00,Night,0
+Total (States),03:00-06:00,25157,TimeSlot,03:00-06:00,Night,1
+Total (States),06:00-09:00,46901,TimeSlot,06:00-09:00,Day,2
+Total (States),09:00-12:00,63379,TimeSlot,09:00-12:00,Day,3
+Total (States),12:00-15:00,67192,TimeSlot,12:00-15:00,Day,4
+Total (States),15:00-18:00,77913,TimeSlot,15:00-18:00,Day,5
+Total (States),18:00-21:00,93733,TimeSlot,18:00-21:00,Night,6
+Total (States),21:00-24:00,51688,TimeSlot,21:00-24:00,Night,7
+Andaman and Nicobar Islands,00:00-03:00,0,TimeSlot,00:00-03:00,Night,0
+Andaman and Nicobar Islands,03:00-06:00,1,TimeSlot,03:00-06:00,Night,1
+Andaman and Nicobar Islands,06:00-09:00,1,TimeSlot,06:00-09:00,Day,2
+Andaman and Nicobar Islands,09:00-12:00,4,TimeSlot,09:00-12:00,Day,3
+Andaman and Nicobar Islands,12:00-15:00,8,TimeSlot,12:00-15:00,Day,4
+Andaman and Nicobar Islands,15:00-18:00,1,TimeSlot,15:00-18:00,Day,5
+Andaman and Nicobar Islands,18:00-21:00,6,TimeSlot,18:00-21:00,Night,6
+Andaman and Nicobar Islands,21:00-24:00,4,TimeSlot,21:00-24:00,Night,7
+Chandigarh,00:00-03:00,18,TimeSlot,00:00-03:00,Night,0
+Chandigarh,03:00-06:00,8,TimeSlot,03:00-06:00,Night,1
+Chandigarh,06:00-09:00,17,TimeSlot,06:00-09:00,Day,2
+Chandigarh,09:00-12:00,25,TimeSlot,09:00-12:00,Day,3
+Chandigarh,12:00-15:00,25,TimeSlot,12:00-15:00,Day,4
+Chandigarh,15:00-18:00,27,TimeSlot,15:00-18:00,Day,5
+Chandigarh,18:00-21:00,34,TimeSlot,18:00-21:00,Night,6
+Chandigarh,21:00-24:00,28,TimeSlot,21:00-24:00,Night,7
+Dadra and Nagar Haveli and Daman and Diu,00:00-03:00,8,TimeSlot,00:00-03:00,Night,0
+Dadra and Nagar Haveli and Daman and Diu,03:00-06:00,4,TimeSlot,03:00-06:00,Night,1
+Dadra and Nagar Haveli and Daman and Diu,06:00-09:00,16,TimeSlot,06:00-09:00,Day,2
+Dadra and Nagar Haveli and Daman and Diu,09:00-12:00,16,TimeSlot,09:00-12:00,Day,3
+Dadra and Nagar Haveli and Daman and Diu,12:00-15:00,16,TimeSlot,12:00-15:00,Day,4
+Dadra and Nagar Haveli and Daman and Diu,15:00-18:00,37,TimeSlot,15:00-18:00,Day,5
+Dadra and Nagar Haveli and Daman and Diu,18:00-21:00,46,TimeSlot,18:00-21:00,Night,6
+Dadra and Nagar Haveli and Daman and Diu,21:00-24:00,40,TimeSlot,21:00-24:00,Night,7
+Delhi,00:00-03:00,618,TimeSlot,00:00-03:00,Night,0
+Delhi,03:00-06:00,555,TimeSlot,03:00-06:00,Night,1
+Delhi,06:00-09:00,652,TimeSlot,06:00-09:00,Day,2
+Delhi,09:00-12:00,737,TimeSlot,09:00-12:00,Day,3
+Delhi,12:00-15:00,621,TimeSlot,12:00-15:00,Day,4
+Delhi,15:00-18:00,840,TimeSlot,15:00-18:00,Day,5
+Delhi,18:00-21:00,839,TimeSlot,18:00-21:00,Night,6
+Delhi,21:00-24:00,853,TimeSlot,21:00-24:00,Night,7
+Jammu and Kashmir,00:00-03:00,223,TimeSlot,00:00-03:00,Night,0
+Jammu and Kashmir,03:00-06:00,252,TimeSlot,03:00-06:00,Night,1
+Jammu and Kashmir,06:00-09:00,611,TimeSlot,06:00-09:00,Day,2
+Jammu and Kashmir,09:00-12:00,1141,TimeSlot,09:00-12:00,Day,3
+Jammu and Kashmir,12:00-15:00,1255,TimeSlot,12:00-15:00,Day,4
+Jammu and Kashmir,15:00-18:00,1370,TimeSlot,15:00-18:00,Day,5
+Jammu and Kashmir,18:00-21:00,1004,TimeSlot,18:00-21:00,Night,6
+Jammu and Kashmir,21:00-24:00,444,TimeSlot,21:00-24:00,Night,7
+Ladakh,00:00-03:00,0,TimeSlot,00:00-03:00,Night,0
+Ladakh,03:00-06:00,1,TimeSlot,03:00-06:00,Night,1
+Ladakh,06:00-09:00,21,TimeSlot,06:00-09:00,Day,2
+Ladakh,09:00-12:00,60,TimeSlot,09:00-12:00,Day,3
+Ladakh,12:00-15:00,90,TimeSlot,12:00-15:00,Day,4
+Ladakh,15:00-18:00,79,TimeSlot,15:00-18:00,Day,5
+Ladakh,18:00-21:00,27,TimeSlot,18:00-21:00,Night,6
+Ladakh,21:00-24:00,11,TimeSlot,21:00-24:00,Night,7
+Lakshadweep,00:00-03:00,0,TimeSlot,00:00-03:00,Night,0
+Lakshadweep,03:00-06:00,0,TimeSlot,03:00-06:00,Night,1
+Lakshadweep,06:00-09:00,0,TimeSlot,06:00-09:00,Day,2
+Lakshadweep,09:00-12:00,0,TimeSlot,09:00-12:00,Day,3
+Lakshadweep,12:00-15:00,0,TimeSlot,12:00-15:00,Day,4
+Lakshadweep,15:00-18:00,0,TimeSlot,15:00-18:00,Day,5
+Lakshadweep,18:00-21:00,0,TimeSlot,18:00-21:00,Night,6
+Lakshadweep,21:00-24:00,1,TimeSlot,21:00-24:00,Night,7
+Puducherry,00:00-03:00,39,TimeSlot,00:00-03:00,Night,0
+Puducherry,03:00-06:00,42,TimeSlot,03:00-06:00,Night,1
+Puducherry,06:00-09:00,157,TimeSlot,06:00-09:00,Day,2
+Puducherry,09:00-12:00,188,TimeSlot,09:00-12:00,Day,3
+Puducherry,12:00-15:00,190,TimeSlot,12:00-15:00,Day,4
+Puducherry,15:00-18:00,215,TimeSlot,15:00-18:00,Day,5
+Puducherry,18:00-21:00,295,TimeSlot,18:00-21:00,Night,6
+Puducherry,21:00-24:00,182,TimeSlot,21:00-24:00,Night,7
+Total (UTs),00:00-03:00,906,TimeSlot,00:00-03:00,Night,0
+Total (UTs),03:00-06:00,863,TimeSlot,03:00-06:00,Night,1
+Total (UTs),06:00-09:00,1475,TimeSlot,06:00-09:00,Day,2
+Total (UTs),09:00-12:00,2171,TimeSlot,09:00-12:00,Day,3
+Total (UTs),12:00-15:00,2205,TimeSlot,12:00-15:00,Day,4
+Total (UTs),15:00-18:00,2569,TimeSlot,15:00-18:00,Day,5
+Total (UTs),18:00-21:00,2251,TimeSlot,18:00-21:00,Night,6
+Total (UTs),21:00-24:00,1563,TimeSlot,21:00-24:00,Night,7
+Total (All India),00:00-03:00,24969,TimeSlot,00:00-03:00,Night,0
+Total (All India),03:00-06:00,26020,TimeSlot,03:00-06:00,Night,1
+Total (All India),06:00-09:00,48376,TimeSlot,06:00-09:00,Day,2
+Total (All India),09:00-12:00,65550,TimeSlot,09:00-12:00,Day,3
+Total (All India),12:00-15:00,69397,TimeSlot,12:00-15:00,Day,4
+Total (All India),15:00-18:00,80482,TimeSlot,15:00-18:00,Day,5
+Total (All India),18:00-21:00,95984,TimeSlot,18:00-21:00,Night,6
+Total (All India),21:00-24:00,53251,TimeSlot,21:00-24:00,Night,7
+Agra,00:00-03:00,56,TimeSlot,00:00-03:00,Night,0
+Agra,03:00-06:00,72,TimeSlot,03:00-06:00,Night,1
+Agra,06:00-09:00,72,TimeSlot,06:00-09:00,Day,2
+Agra,09:00-12:00,53,TimeSlot,09:00-12:00,Day,3
+Agra,12:00-15:00,54,TimeSlot,12:00-15:00,Day,4
+Agra,15:00-18:00,65,TimeSlot,15:00-18:00,Day,5
+Agra,18:00-21:00,116,TimeSlot,18:00-21:00,Night,6
+Agra,21:00-24:00,65,TimeSlot,21:00-24:00,Night,7
+Ahmedabad,00:00-03:00,90,TimeSlot,00:00-03:00,Night,0
+Ahmedabad,03:00-06:00,53,TimeSlot,03:00-06:00,Night,1
+Ahmedabad,06:00-09:00,159,TimeSlot,06:00-09:00,Day,2
+Ahmedabad,09:00-12:00,299,TimeSlot,09:00-12:00,Day,3
+Ahmedabad,12:00-15:00,255,TimeSlot,12:00-15:00,Day,4
+Ahmedabad,15:00-18:00,247,TimeSlot,15:00-18:00,Day,5
+Ahmedabad,18:00-21:00,370,TimeSlot,18:00-21:00,Night,6
+Ahmedabad,21:00-24:00,294,TimeSlot,21:00-24:00,Night,7
+Amritsar,00:00-03:00,12,TimeSlot,00:00-03:00,Night,0
+Amritsar,03:00-06:00,10,TimeSlot,03:00-06:00,Night,1
+Amritsar,06:00-09:00,17,TimeSlot,06:00-09:00,Day,2
+Amritsar,09:00-12:00,19,TimeSlot,09:00-12:00,Day,3
+Amritsar,12:00-15:00,9,TimeSlot,12:00-15:00,Day,4
+Amritsar,15:00-18:00,25,TimeSlot,15:00-18:00,Day,5
+Amritsar,18:00-21:00,26,TimeSlot,18:00-21:00,Night,6
+Amritsar,21:00-24:00,29,TimeSlot,21:00-24:00,Night,7
+Asansol,00:00-03:00,52,TimeSlot,00:00-03:00,Night,0
+Asansol,03:00-06:00,43,TimeSlot,03:00-06:00,Night,1
+Asansol,06:00-09:00,29,TimeSlot,06:00-09:00,Day,2
+Asansol,09:00-12:00,52,TimeSlot,09:00-12:00,Day,3
+Asansol,12:00-15:00,43,TimeSlot,12:00-15:00,Day,4
+Asansol,15:00-18:00,47,TimeSlot,15:00-18:00,Day,5
+Asansol,18:00-21:00,66,TimeSlot,18:00-21:00,Night,6
+Asansol,21:00-24:00,69,TimeSlot,21:00-24:00,Night,7
+Aurangabad,00:00-03:00,51,TimeSlot,00:00-03:00,Night,0
+Aurangabad,03:00-06:00,34,TimeSlot,03:00-06:00,Night,1
+Aurangabad,06:00-09:00,50,TimeSlot,06:00-09:00,Day,2
+Aurangabad,09:00-12:00,65,TimeSlot,09:00-12:00,Day,3
+Aurangabad,12:00-15:00,78,TimeSlot,12:00-15:00,Day,4
+Aurangabad,15:00-18:00,79,TimeSlot,15:00-18:00,Day,5
+Aurangabad,18:00-21:00,113,TimeSlot,18:00-21:00,Night,6
+Aurangabad,21:00-24:00,90,TimeSlot,21:00-24:00,Night,7
+Bengaluru,00:00-03:00,383,TimeSlot,00:00-03:00,Night,0
+Bengaluru,03:00-06:00,270,TimeSlot,03:00-06:00,Night,1
+Bengaluru,06:00-09:00,591,TimeSlot,06:00-09:00,Day,2
+Bengaluru,09:00-12:00,751,TimeSlot,09:00-12:00,Day,3
+Bengaluru,12:00-15:00,725,TimeSlot,12:00-15:00,Day,4
+Bengaluru,15:00-18:00,738,TimeSlot,15:00-18:00,Day,5
+Bengaluru,18:00-21:00,810,TimeSlot,18:00-21:00,Night,6
+Bengaluru,21:00-24:00,712,TimeSlot,21:00-24:00,Night,7
+Bhopal,00:00-03:00,291,TimeSlot,00:00-03:00,Night,0
+Bhopal,03:00-06:00,56,TimeSlot,03:00-06:00,Night,1
+Bhopal,06:00-09:00,201,TimeSlot,06:00-09:00,Day,2
+Bhopal,09:00-12:00,290,TimeSlot,09:00-12:00,Day,3
+Bhopal,12:00-15:00,394,TimeSlot,12:00-15:00,Day,4
+Bhopal,15:00-18:00,555,TimeSlot,15:00-18:00,Day,5
+Bhopal,18:00-21:00,506,TimeSlot,18:00-21:00,Night,6
+Bhopal,21:00-24:00,613,TimeSlot,21:00-24:00,Night,7
+Chandigarh (City),00:00-03:00,18,TimeSlot,00:00-03:00,Night,0
+Chandigarh (City),03:00-06:00,8,TimeSlot,03:00-06:00,Night,1
+Chandigarh (City),06:00-09:00,17,TimeSlot,06:00-09:00,Day,2
+Chandigarh (City),09:00-12:00,25,TimeSlot,09:00-12:00,Day,3
+Chandigarh (City),12:00-15:00,25,TimeSlot,12:00-15:00,Day,4
+Chandigarh (City),15:00-18:00,27,TimeSlot,15:00-18:00,Day,5
+Chandigarh (City),18:00-21:00,34,TimeSlot,18:00-21:00,Night,6
+Chandigarh (City),21:00-24:00,28,TimeSlot,21:00-24:00,Night,7
+Chennai,00:00-03:00,110,TimeSlot,00:00-03:00,Night,0
+Chennai,03:00-06:00,249,TimeSlot,03:00-06:00,Night,1
+Chennai,06:00-09:00,400,TimeSlot,06:00-09:00,Day,2
+Chennai,09:00-12:00,586,TimeSlot,09:00-12:00,Day,3
+Chennai,12:00-15:00,733,TimeSlot,12:00-15:00,Day,4
+Chennai,15:00-18:00,469,TimeSlot,15:00-18:00,Day,5
+Chennai,18:00-21:00,530,TimeSlot,18:00-21:00,Night,6
+Chennai,21:00-24:00,576,TimeSlot,21:00-24:00,Night,7
+Coimbatore,00:00-03:00,44,TimeSlot,00:00-03:00,Night,0
+Coimbatore,03:00-06:00,42,TimeSlot,03:00-06:00,Night,1
+Coimbatore,06:00-09:00,174,TimeSlot,06:00-09:00,Day,2
+Coimbatore,09:00-12:00,179,TimeSlot,09:00-12:00,Day,3
+Coimbatore,12:00-15:00,156,TimeSlot,12:00-15:00,Day,4
+Coimbatore,15:00-18:00,155,TimeSlot,15:00-18:00,Day,5
+Coimbatore,18:00-21:00,223,TimeSlot,18:00-21:00,Night,6
+Coimbatore,21:00-24:00,188,TimeSlot,21:00-24:00,Night,7
+Delhi (City),00:00-03:00,618,TimeSlot,00:00-03:00,Night,0
+Delhi (City),03:00-06:00,555,TimeSlot,03:00-06:00,Night,1
+Delhi (City),06:00-09:00,652,TimeSlot,06:00-09:00,Day,2
+Delhi (City),09:00-12:00,737,TimeSlot,09:00-12:00,Day,3
+Delhi (City),12:00-15:00,621,TimeSlot,12:00-15:00,Day,4
+Delhi (City),15:00-18:00,840,TimeSlot,15:00-18:00,Day,5
+Delhi (City),18:00-21:00,839,TimeSlot,18:00-21:00,Night,6
+Delhi (City),21:00-24:00,853,TimeSlot,21:00-24:00,Night,7
+Dhanbad,00:00-03:00,17,TimeSlot,00:00-03:00,Night,0
+Dhanbad,03:00-06:00,13,TimeSlot,03:00-06:00,Night,1
+Dhanbad,06:00-09:00,21,TimeSlot,06:00-09:00,Day,2
+Dhanbad,09:00-12:00,25,TimeSlot,09:00-12:00,Day,3
+Dhanbad,12:00-15:00,26,TimeSlot,12:00-15:00,Day,4
+Dhanbad,15:00-18:00,39,TimeSlot,15:00-18:00,Day,5
+Dhanbad,18:00-21:00,29,TimeSlot,18:00-21:00,Night,6
+Dhanbad,21:00-24:00,25,TimeSlot,21:00-24:00,Night,7
+Durg Bhilainagar,00:00-03:00,35,TimeSlot,00:00-03:00,Night,0
+Durg Bhilainagar,03:00-06:00,16,TimeSlot,03:00-06:00,Night,1
+Durg Bhilainagar,06:00-09:00,54,TimeSlot,06:00-09:00,Day,2
+Durg Bhilainagar,09:00-12:00,115,TimeSlot,09:00-12:00,Day,3
+Durg Bhilainagar,12:00-15:00,142,TimeSlot,12:00-15:00,Day,4
+Durg Bhilainagar,15:00-18:00,132,TimeSlot,15:00-18:00,Day,5
+Durg Bhilainagar,18:00-21:00,164,TimeSlot,18:00-21:00,Night,6
+Durg Bhilainagar,21:00-24:00,129,TimeSlot,21:00-24:00,Night,7
+Faridabad,00:00-03:00,81,TimeSlot,00:00-03:00,Night,0
+Faridabad,03:00-06:00,100,TimeSlot,03:00-06:00,Night,1
+Faridabad,06:00-09:00,124,TimeSlot,06:00-09:00,Day,2
+Faridabad,09:00-12:00,102,TimeSlot,09:00-12:00,Day,3
+Faridabad,12:00-15:00,49,TimeSlot,12:00-15:00,Day,4
+Faridabad,15:00-18:00,42,TimeSlot,15:00-18:00,Day,5
+Faridabad,18:00-21:00,51,TimeSlot,18:00-21:00,Night,6
+Faridabad,21:00-24:00,87,TimeSlot,21:00-24:00,Night,7
+Ghaziabad,00:00-03:00,110,TimeSlot,00:00-03:00,Night,0
+Ghaziabad,03:00-06:00,116,TimeSlot,03:00-06:00,Night,1
+Ghaziabad,06:00-09:00,109,TimeSlot,06:00-09:00,Day,2
+Ghaziabad,09:00-12:00,106,TimeSlot,09:00-12:00,Day,3
+Ghaziabad,12:00-15:00,118,TimeSlot,12:00-15:00,Day,4
+Ghaziabad,15:00-18:00,101,TimeSlot,15:00-18:00,Day,5
+Ghaziabad,18:00-21:00,106,TimeSlot,18:00-21:00,Night,6
+Ghaziabad,21:00-24:00,127,TimeSlot,21:00-24:00,Night,7
+Gwalior,00:00-03:00,70,TimeSlot,00:00-03:00,Night,0
+Gwalior,03:00-06:00,46,TimeSlot,03:00-06:00,Night,1
+Gwalior,06:00-09:00,79,TimeSlot,06:00-09:00,Day,2
+Gwalior,09:00-12:00,169,TimeSlot,09:00-12:00,Day,3
+Gwalior,12:00-15:00,236,TimeSlot,12:00-15:00,Day,4
+Gwalior,15:00-18:00,238,TimeSlot,15:00-18:00,Day,5
+Gwalior,18:00-21:00,236,TimeSlot,18:00-21:00,Night,6
+Gwalior,21:00-24:00,156,TimeSlot,21:00-24:00,Night,7
+Hyderabad,00:00-03:00,271,TimeSlot,00:00-03:00,Night,0
+Hyderabad,03:00-06:00,200,TimeSlot,03:00-06:00,Night,1
+Hyderabad,06:00-09:00,348,TimeSlot,06:00-09:00,Day,2
+Hyderabad,09:00-12:00,413,TimeSlot,09:00-12:00,Day,3
+Hyderabad,12:00-15:00,435,TimeSlot,12:00-15:00,Day,4
+Hyderabad,15:00-18:00,427,TimeSlot,15:00-18:00,Day,5
+Hyderabad,18:00-21:00,474,TimeSlot,18:00-21:00,Night,6
+Hyderabad,21:00-24:00,375,TimeSlot,21:00-24:00,Night,7
+Indore,00:00-03:00,211,TimeSlot,00:00-03:00,Night,0
+Indore,03:00-06:00,95,TimeSlot,03:00-06:00,Night,1
+Indore,06:00-09:00,249,TimeSlot,06:00-09:00,Day,2
+Indore,09:00-12:00,572,TimeSlot,09:00-12:00,Day,3
+Indore,12:00-15:00,633,TimeSlot,12:00-15:00,Day,4
+Indore,15:00-18:00,647,TimeSlot,15:00-18:00,Day,5
+Indore,18:00-21:00,658,TimeSlot,18:00-21:00,Night,6
+Indore,21:00-24:00,501,TimeSlot,21:00-24:00,Night,7
+Jabalpur,00:00-03:00,267,TimeSlot,00:00-03:00,Night,0
+Jabalpur,03:00-06:00,315,TimeSlot,03:00-06:00,Night,1
+Jabalpur,06:00-09:00,348,TimeSlot,06:00-09:00,Day,2
+Jabalpur,09:00-12:00,359,TimeSlot,09:00-12:00,Day,3
+Jabalpur,12:00-15:00,440,TimeSlot,12:00-15:00,Day,4
+Jabalpur,15:00-18:00,314,TimeSlot,15:00-18:00,Day,5
+Jabalpur,18:00-21:00,161,TimeSlot,18:00-21:00,Night,6
+Jabalpur,21:00-24:00,115,TimeSlot,21:00-24:00,Night,7
+Jaipur,00:00-03:00,145,TimeSlot,00:00-03:00,Night,0
+Jaipur,03:00-06:00,94,TimeSlot,03:00-06:00,Night,1
+Jaipur,06:00-09:00,336,TimeSlot,06:00-09:00,Day,2
+Jaipur,09:00-12:00,471,TimeSlot,09:00-12:00,Day,3
+Jaipur,12:00-15:00,458,TimeSlot,12:00-15:00,Day,4
+Jaipur,15:00-18:00,487,TimeSlot,15:00-18:00,Day,5
+Jaipur,18:00-21:00,558,TimeSlot,18:00-21:00,Night,6
+Jaipur,21:00-24:00,365,TimeSlot,21:00-24:00,Night,7
+Jamshedpur,00:00-03:00,8,TimeSlot,00:00-03:00,Night,0
+Jamshedpur,03:00-06:00,21,TimeSlot,03:00-06:00,Night,1
+Jamshedpur,06:00-09:00,27,TimeSlot,06:00-09:00,Day,2
+Jamshedpur,09:00-12:00,28,TimeSlot,09:00-12:00,Day,3
+Jamshedpur,12:00-15:00,25,TimeSlot,12:00-15:00,Day,4
+Jamshedpur,15:00-18:00,20,TimeSlot,15:00-18:00,Day,5
+Jamshedpur,18:00-21:00,18,TimeSlot,18:00-21:00,Night,6
+Jamshedpur,21:00-24:00,8,TimeSlot,21:00-24:00,Night,7
+Jodhpur,00:00-03:00,39,TimeSlot,00:00-03:00,Night,0
+Jodhpur,03:00-06:00,51,TimeSlot,03:00-06:00,Night,1
+Jodhpur,06:00-09:00,68,TimeSlot,06:00-09:00,Day,2
+Jodhpur,09:00-12:00,84,TimeSlot,09:00-12:00,Day,3
+Jodhpur,12:00-15:00,92,TimeSlot,12:00-15:00,Day,4
+Jodhpur,15:00-18:00,160,TimeSlot,15:00-18:00,Day,5
+Jodhpur,18:00-21:00,105,TimeSlot,18:00-21:00,Night,6
+Jodhpur,21:00-24:00,87,TimeSlot,21:00-24:00,Night,7
+Kannur,00:00-03:00,26,TimeSlot,00:00-03:00,Night,0
+Kannur,03:00-06:00,32,TimeSlot,03:00-06:00,Night,1
+Kannur,06:00-09:00,157,TimeSlot,06:00-09:00,Day,2
+Kannur,09:00-12:00,286,TimeSlot,09:00-12:00,Day,3
+Kannur,12:00-15:00,248,TimeSlot,12:00-15:00,Day,4
+Kannur,15:00-18:00,295,TimeSlot,15:00-18:00,Day,5
+Kannur,18:00-21:00,332,TimeSlot,18:00-21:00,Night,6
+Kannur,21:00-24:00,155,TimeSlot,21:00-24:00,Night,7
+Kanpur,00:00-03:00,335,TimeSlot,00:00-03:00,Night,0
+Kanpur,03:00-06:00,118,TimeSlot,03:00-06:00,Night,1
+Kanpur,06:00-09:00,98,TimeSlot,06:00-09:00,Day,2
+Kanpur,09:00-12:00,107,TimeSlot,09:00-12:00,Day,3
+Kanpur,12:00-15:00,234,TimeSlot,12:00-15:00,Day,4
+Kanpur,15:00-18:00,220,TimeSlot,15:00-18:00,Day,5
+Kanpur,18:00-21:00,205,TimeSlot,18:00-21:00,Night,6
+Kanpur,21:00-24:00,306,TimeSlot,21:00-24:00,Night,7
+Kochi,00:00-03:00,88,TimeSlot,00:00-03:00,Night,0
+Kochi,03:00-06:00,101,TimeSlot,03:00-06:00,Night,1
+Kochi,06:00-09:00,341,TimeSlot,06:00-09:00,Day,2
+Kochi,09:00-12:00,445,TimeSlot,09:00-12:00,Day,3
+Kochi,12:00-15:00,252,TimeSlot,12:00-15:00,Day,4
+Kochi,15:00-18:00,518,TimeSlot,15:00-18:00,Day,5
+Kochi,18:00-21:00,526,TimeSlot,18:00-21:00,Night,6
+Kochi,21:00-24:00,314,TimeSlot,21:00-24:00,Night,7
+Kolkata,00:00-03:00,181,TimeSlot,00:00-03:00,Night,0
+Kolkata,03:00-06:00,159,TimeSlot,03:00-06:00,Night,1
+Kolkata,06:00-09:00,116,TimeSlot,06:00-09:00,Day,2
+Kolkata,09:00-12:00,115,TimeSlot,09:00-12:00,Day,3
+Kolkata,12:00-15:00,150,TimeSlot,12:00-15:00,Day,4
+Kolkata,15:00-18:00,117,TimeSlot,15:00-18:00,Day,5
+Kolkata,18:00-21:00,114,TimeSlot,18:00-21:00,Night,6
+Kolkata,21:00-24:00,177,TimeSlot,21:00-24:00,Night,7
+Kollam,00:00-03:00,60,TimeSlot,00:00-03:00,Night,0
+Kollam,03:00-06:00,55,TimeSlot,03:00-06:00,Night,1
+Kollam,06:00-09:00,238,TimeSlot,06:00-09:00,Day,2
+Kollam,09:00-12:00,351,TimeSlot,09:00-12:00,Day,3
+Kollam,12:00-15:00,327,TimeSlot,12:00-15:00,Day,4
+Kollam,15:00-18:00,377,TimeSlot,15:00-18:00,Day,5
+Kollam,18:00-21:00,439,TimeSlot,18:00-21:00,Night,6
+Kollam,21:00-24:00,249,TimeSlot,21:00-24:00,Night,7
+Kota,00:00-03:00,12,TimeSlot,00:00-03:00,Night,0
+Kota,03:00-06:00,11,TimeSlot,03:00-06:00,Night,1
+Kota,06:00-09:00,43,TimeSlot,06:00-09:00,Day,2
+Kota,09:00-12:00,83,TimeSlot,09:00-12:00,Day,3
+Kota,12:00-15:00,107,TimeSlot,12:00-15:00,Day,4
+Kota,15:00-18:00,116,TimeSlot,15:00-18:00,Day,5
+Kota,18:00-21:00,118,TimeSlot,18:00-21:00,Night,6
+Kota,21:00-24:00,102,TimeSlot,21:00-24:00,Night,7
+Kozhikode,00:00-03:00,42,TimeSlot,00:00-03:00,Night,0
+Kozhikode,03:00-06:00,43,TimeSlot,03:00-06:00,Night,1
+Kozhikode,06:00-09:00,233,TimeSlot,06:00-09:00,Day,2
+Kozhikode,09:00-12:00,385,TimeSlot,09:00-12:00,Day,3
+Kozhikode,12:00-15:00,316,TimeSlot,12:00-15:00,Day,4
+Kozhikode,15:00-18:00,384,TimeSlot,15:00-18:00,Day,5
+Kozhikode,18:00-21:00,395,TimeSlot,18:00-21:00,Night,6
+Kozhikode,21:00-24:00,228,TimeSlot,21:00-24:00,Night,7
+Lucknow,00:00-03:00,175,TimeSlot,00:00-03:00,Night,0
+Lucknow,03:00-06:00,103,TimeSlot,03:00-06:00,Night,1
+Lucknow,06:00-09:00,155,TimeSlot,06:00-09:00,Day,2
+Lucknow,09:00-12:00,114,TimeSlot,09:00-12:00,Day,3
+Lucknow,12:00-15:00,135,TimeSlot,12:00-15:00,Day,4
+Lucknow,15:00-18:00,128,TimeSlot,15:00-18:00,Day,5
+Lucknow,18:00-21:00,202,TimeSlot,18:00-21:00,Night,6
+Lucknow,21:00-24:00,188,TimeSlot,21:00-24:00,Night,7
+Ludhiana,00:00-03:00,30,TimeSlot,00:00-03:00,Night,0
+Ludhiana,03:00-06:00,21,TimeSlot,03:00-06:00,Night,1
+Ludhiana,06:00-09:00,54,TimeSlot,06:00-09:00,Day,2
+Ludhiana,09:00-12:00,63,TimeSlot,09:00-12:00,Day,3
+Ludhiana,12:00-15:00,64,TimeSlot,12:00-15:00,Day,4
+Ludhiana,15:00-18:00,64,TimeSlot,15:00-18:00,Day,5
+Ludhiana,18:00-21:00,121,TimeSlot,18:00-21:00,Night,6
+Ludhiana,21:00-24:00,87,TimeSlot,21:00-24:00,Night,7
+Madurai,00:00-03:00,33,TimeSlot,00:00-03:00,Night,0
+Madurai,03:00-06:00,34,TimeSlot,03:00-06:00,Night,1
+Madurai,06:00-09:00,78,TimeSlot,06:00-09:00,Day,2
+Madurai,09:00-12:00,125,TimeSlot,09:00-12:00,Day,3
+Madurai,12:00-15:00,120,TimeSlot,12:00-15:00,Day,4
+Madurai,15:00-18:00,129,TimeSlot,15:00-18:00,Day,5
+Madurai,18:00-21:00,168,TimeSlot,18:00-21:00,Night,6
+Madurai,21:00-24:00,81,TimeSlot,21:00-24:00,Night,7
+Malappuram,00:00-03:00,26,TimeSlot,00:00-03:00,Night,0
+Malappuram,03:00-06:00,30,TimeSlot,03:00-06:00,Night,1
+Malappuram,06:00-09:00,102,TimeSlot,06:00-09:00,Day,2
+Malappuram,09:00-12:00,199,TimeSlot,09:00-12:00,Day,3
+Malappuram,12:00-15:00,170,TimeSlot,12:00-15:00,Day,4
+Malappuram,15:00-18:00,190,TimeSlot,15:00-18:00,Day,5
+Malappuram,18:00-21:00,168,TimeSlot,18:00-21:00,Night,6
+Malappuram,21:00-24:00,70,TimeSlot,21:00-24:00,Night,7
+Meerut,00:00-03:00,34,TimeSlot,00:00-03:00,Night,0
+Meerut,03:00-06:00,24,TimeSlot,03:00-06:00,Night,1
+Meerut,06:00-09:00,39,TimeSlot,06:00-09:00,Day,2
+Meerut,09:00-12:00,62,TimeSlot,09:00-12:00,Day,3
+Meerut,12:00-15:00,67,TimeSlot,12:00-15:00,Day,4
+Meerut,15:00-18:00,78,TimeSlot,15:00-18:00,Day,5
+Meerut,18:00-21:00,92,TimeSlot,18:00-21:00,Night,6
+Meerut,21:00-24:00,76,TimeSlot,21:00-24:00,Night,7
+Mumbai,00:00-03:00,54,TimeSlot,00:00-03:00,Night,0
+Mumbai,03:00-06:00,52,TimeSlot,03:00-06:00,Night,1
+Mumbai,06:00-09:00,36,TimeSlot,06:00-09:00,Day,2
+Mumbai,09:00-12:00,56,TimeSlot,09:00-12:00,Day,3
+Mumbai,12:00-15:00,65,TimeSlot,12:00-15:00,Day,4
+Mumbai,15:00-18:00,43,TimeSlot,15:00-18:00,Day,5
+Mumbai,18:00-21:00,52,TimeSlot,18:00-21:00,Night,6
+Mumbai,21:00-24:00,56,TimeSlot,21:00-24:00,Night,7
+Nagpur,00:00-03:00,93,TimeSlot,00:00-03:00,Night,0
+Nagpur,03:00-06:00,40,TimeSlot,03:00-06:00,Night,1
+Nagpur,06:00-09:00,109,TimeSlot,06:00-09:00,Day,2
+Nagpur,09:00-12:00,195,TimeSlot,09:00-12:00,Day,3
+Nagpur,12:00-15:00,195,TimeSlot,12:00-15:00,Day,4
+Nagpur,15:00-18:00,160,TimeSlot,15:00-18:00,Day,5
+Nagpur,18:00-21:00,202,TimeSlot,18:00-21:00,Night,6
+Nagpur,21:00-24:00,219,TimeSlot,21:00-24:00,Night,7
+Nasik,00:00-03:00,31,TimeSlot,00:00-03:00,Night,0
+Nasik,03:00-06:00,28,TimeSlot,03:00-06:00,Night,1
+Nasik,06:00-09:00,33,TimeSlot,06:00-09:00,Day,2
+Nasik,09:00-12:00,35,TimeSlot,09:00-12:00,Day,3
+Nasik,12:00-15:00,29,TimeSlot,12:00-15:00,Day,4
+Nasik,15:00-18:00,27,TimeSlot,15:00-18:00,Day,5
+Nasik,18:00-21:00,41,TimeSlot,18:00-21:00,Night,6
+Nasik,21:00-24:00,37,TimeSlot,21:00-24:00,Night,7
+Patna,00:00-03:00,19,TimeSlot,00:00-03:00,Night,0
+Patna,03:00-06:00,30,TimeSlot,03:00-06:00,Night,1
+Patna,06:00-09:00,47,TimeSlot,06:00-09:00,Day,2
+Patna,09:00-12:00,39,TimeSlot,09:00-12:00,Day,3
+Patna,12:00-15:00,33,TimeSlot,12:00-15:00,Day,4
+Patna,15:00-18:00,49,TimeSlot,15:00-18:00,Day,5
+Patna,18:00-21:00,43,TimeSlot,18:00-21:00,Night,6
+Patna,21:00-24:00,62,TimeSlot,21:00-24:00,Night,7
+Prayagraj,00:00-03:00,87,TimeSlot,00:00-03:00,Night,0
+Prayagraj,03:00-06:00,172,TimeSlot,03:00-06:00,Night,1
+Prayagraj,06:00-09:00,155,TimeSlot,06:00-09:00,Day,2
+Prayagraj,09:00-12:00,158,TimeSlot,09:00-12:00,Day,3
+Prayagraj,12:00-15:00,144,TimeSlot,12:00-15:00,Day,4
+Prayagraj,15:00-18:00,156,TimeSlot,15:00-18:00,Day,5
+Prayagraj,18:00-21:00,226,TimeSlot,18:00-21:00,Night,6
+Prayagraj,21:00-24:00,199,TimeSlot,21:00-24:00,Night,7
+Pune,00:00-03:00,56,TimeSlot,00:00-03:00,Night,0
+Pune,03:00-06:00,47,TimeSlot,03:00-06:00,Night,1
+Pune,06:00-09:00,48,TimeSlot,06:00-09:00,Day,2
+Pune,09:00-12:00,66,TimeSlot,09:00-12:00,Day,3
+Pune,12:00-15:00,67,TimeSlot,12:00-15:00,Day,4
+Pune,15:00-18:00,79,TimeSlot,15:00-18:00,Day,5
+Pune,18:00-21:00,69,TimeSlot,18:00-21:00,Night,6
+Pune,21:00-24:00,70,TimeSlot,21:00-24:00,Night,7
+Raipur,00:00-03:00,71,TimeSlot,00:00-03:00,Night,0
+Raipur,03:00-06:00,21,TimeSlot,03:00-06:00,Night,1
+Raipur,06:00-09:00,60,TimeSlot,06:00-09:00,Day,2
+Raipur,09:00-12:00,150,TimeSlot,09:00-12:00,Day,3
+Raipur,12:00-15:00,202,TimeSlot,12:00-15:00,Day,4
+Raipur,15:00-18:00,176,TimeSlot,15:00-18:00,Day,5
+Raipur,18:00-21:00,203,TimeSlot,18:00-21:00,Night,6
+Raipur,21:00-24:00,194,TimeSlot,21:00-24:00,Night,7
+Rajkot,00:00-03:00,25,TimeSlot,00:00-03:00,Night,0
+Rajkot,03:00-06:00,21,TimeSlot,03:00-06:00,Night,1
+Rajkot,06:00-09:00,42,TimeSlot,06:00-09:00,Day,2
+Rajkot,09:00-12:00,70,TimeSlot,09:00-12:00,Day,3
+Rajkot,12:00-15:00,88,TimeSlot,12:00-15:00,Day,4
+Rajkot,15:00-18:00,72,TimeSlot,15:00-18:00,Day,5
+Rajkot,18:00-21:00,117,TimeSlot,18:00-21:00,Night,6
+Rajkot,21:00-24:00,59,TimeSlot,21:00-24:00,Night,7
+Ranchi,00:00-03:00,12,TimeSlot,00:00-03:00,Night,0
+Ranchi,03:00-06:00,23,TimeSlot,03:00-06:00,Night,1
+Ranchi,06:00-09:00,26,TimeSlot,06:00-09:00,Day,2
+Ranchi,09:00-12:00,41,TimeSlot,09:00-12:00,Day,3
+Ranchi,12:00-15:00,42,TimeSlot,12:00-15:00,Day,4
+Ranchi,15:00-18:00,47,TimeSlot,15:00-18:00,Day,5
+Ranchi,18:00-21:00,43,TimeSlot,18:00-21:00,Night,6
+Ranchi,21:00-24:00,29,TimeSlot,21:00-24:00,Night,7
+Srinagar,00:00-03:00,0,TimeSlot,00:00-03:00,Night,0
+Srinagar,03:00-06:00,0,TimeSlot,03:00-06:00,Night,1
+Srinagar,06:00-09:00,2,TimeSlot,06:00-09:00,Day,2
+Srinagar,09:00-12:00,180,TimeSlot,09:00-12:00,Day,3
+Srinagar,12:00-15:00,190,TimeSlot,12:00-15:00,Day,4
+Srinagar,15:00-18:00,71,TimeSlot,15:00-18:00,Day,5
+Srinagar,18:00-21:00,24,TimeSlot,18:00-21:00,Night,6
+Srinagar,21:00-24:00,9,TimeSlot,21:00-24:00,Night,7
+Surat,00:00-03:00,27,TimeSlot,00:00-03:00,Night,0
+Surat,03:00-06:00,18,TimeSlot,03:00-06:00,Night,1
+Surat,06:00-09:00,79,TimeSlot,06:00-09:00,Day,2
+Surat,09:00-12:00,94,TimeSlot,09:00-12:00,Day,3
+Surat,12:00-15:00,88,TimeSlot,12:00-15:00,Day,4
+Surat,15:00-18:00,122,TimeSlot,15:00-18:00,Day,5
+Surat,18:00-21:00,131,TimeSlot,18:00-21:00,Night,6
+Surat,21:00-24:00,91,TimeSlot,21:00-24:00,Night,7
+Thiruvananthapuram,00:00-03:00,54,TimeSlot,00:00-03:00,Night,0
+Thiruvananthapuram,03:00-06:00,73,TimeSlot,03:00-06:00,Night,1
+Thiruvananthapuram,06:00-09:00,255,TimeSlot,06:00-09:00,Day,2
+Thiruvananthapuram,09:00-12:00,410,TimeSlot,09:00-12:00,Day,3
+Thiruvananthapuram,12:00-15:00,321,TimeSlot,12:00-15:00,Day,4
+Thiruvananthapuram,15:00-18:00,377,TimeSlot,15:00-18:00,Day,5
+Thiruvananthapuram,18:00-21:00,403,TimeSlot,18:00-21:00,Night,6
+Thiruvananthapuram,21:00-24:00,213,TimeSlot,21:00-24:00,Night,7
+Thrissur,00:00-03:00,63,TimeSlot,00:00-03:00,Night,0
+Thrissur,03:00-06:00,80,TimeSlot,03:00-06:00,Night,1
+Thrissur,06:00-09:00,324,TimeSlot,06:00-09:00,Day,2
+Thrissur,09:00-12:00,415,TimeSlot,09:00-12:00,Day,3
+Thrissur,12:00-15:00,343,TimeSlot,12:00-15:00,Day,4
+Thrissur,15:00-18:00,432,TimeSlot,15:00-18:00,Day,5
+Thrissur,18:00-21:00,559,TimeSlot,18:00-21:00,Night,6
+Thrissur,21:00-24:00,228,TimeSlot,21:00-24:00,Night,7
+Tiruchirappalli,00:00-03:00,28,TimeSlot,00:00-03:00,Night,0
+Tiruchirappalli,03:00-06:00,29,TimeSlot,03:00-06:00,Night,1
+Tiruchirappalli,06:00-09:00,71,TimeSlot,06:00-09:00,Day,2
+Tiruchirappalli,09:00-12:00,93,TimeSlot,09:00-12:00,Day,3
+Tiruchirappalli,12:00-15:00,92,TimeSlot,12:00-15:00,Day,4
+Tiruchirappalli,15:00-18:00,102,TimeSlot,15:00-18:00,Day,5
+Tiruchirappalli,18:00-21:00,125,TimeSlot,18:00-21:00,Night,6
+Tiruchirappalli,21:00-24:00,79,TimeSlot,21:00-24:00,Night,7
+Vadodara,00:00-03:00,44,TimeSlot,00:00-03:00,Night,0
+Vadodara,03:00-06:00,28,TimeSlot,03:00-06:00,Night,1
+Vadodara,06:00-09:00,43,TimeSlot,06:00-09:00,Day,2
+Vadodara,09:00-12:00,101,TimeSlot,09:00-12:00,Day,3
+Vadodara,12:00-15:00,78,TimeSlot,12:00-15:00,Day,4
+Vadodara,15:00-18:00,83,TimeSlot,15:00-18:00,Day,5
+Vadodara,18:00-21:00,106,TimeSlot,18:00-21:00,Night,6
+Vadodara,21:00-24:00,83,TimeSlot,21:00-24:00,Night,7
+Varanasi,00:00-03:00,21,TimeSlot,00:00-03:00,Night,0
+Varanasi,03:00-06:00,25,TimeSlot,03:00-06:00,Night,1
+Varanasi,06:00-09:00,27,TimeSlot,06:00-09:00,Day,2
+Varanasi,09:00-12:00,23,TimeSlot,09:00-12:00,Day,3
+Varanasi,12:00-15:00,27,TimeSlot,12:00-15:00,Day,4
+Varanasi,15:00-18:00,23,TimeSlot,15:00-18:00,Day,5
+Varanasi,18:00-21:00,23,TimeSlot,18:00-21:00,Night,6
+Varanasi,21:00-24:00,27,TimeSlot,21:00-24:00,Night,7
+Vasai Virar,00:00-03:00,30,TimeSlot,00:00-03:00,Night,0
+Vasai Virar,03:00-06:00,24,TimeSlot,03:00-06:00,Night,1
+Vasai Virar,06:00-09:00,45,TimeSlot,06:00-09:00,Day,2
+Vasai Virar,09:00-12:00,53,TimeSlot,09:00-12:00,Day,3
+Vasai Virar,12:00-15:00,58,TimeSlot,12:00-15:00,Day,4
+Vasai Virar,15:00-18:00,36,TimeSlot,15:00-18:00,Day,5
+Vasai Virar,18:00-21:00,66,TimeSlot,18:00-21:00,Night,6
+Vasai Virar,21:00-24:00,53,TimeSlot,21:00-24:00,Night,7
+Vijayawada,00:00-03:00,86,TimeSlot,00:00-03:00,Night,0
+Vijayawada,03:00-06:00,74,TimeSlot,03:00-06:00,Night,1
+Vijayawada,06:00-09:00,159,TimeSlot,06:00-09:00,Day,2
+Vijayawada,09:00-12:00,218,TimeSlot,09:00-12:00,Day,3
+Vijayawada,12:00-15:00,236,TimeSlot,12:00-15:00,Day,4
+Vijayawada,15:00-18:00,228,TimeSlot,15:00-18:00,Day,5
+Vijayawada,18:00-21:00,295,TimeSlot,18:00-21:00,Night,6
+Vijayawada,21:00-24:00,226,TimeSlot,21:00-24:00,Night,7
+Vishakhapatnam,00:00-03:00,61,TimeSlot,00:00-03:00,Night,0
+Vishakhapatnam,03:00-06:00,56,TimeSlot,03:00-06:00,Night,1
+Vishakhapatnam,06:00-09:00,179,TimeSlot,06:00-09:00,Day,2
+Vishakhapatnam,09:00-12:00,190,TimeSlot,09:00-12:00,Day,3
+Vishakhapatnam,12:00-15:00,194,TimeSlot,12:00-15:00,Day,4
+Vishakhapatnam,15:00-18:00,216,TimeSlot,15:00-18:00,Day,5
+Vishakhapatnam,18:00-21:00,245,TimeSlot,18:00-21:00,Night,6
+Vishakhapatnam,21:00-24:00,152,TimeSlot,21:00-24:00,Night,7
+Total (Cities),00:00-03:00,4883,TimeSlot,00:00-03:00,Night,0
+Total (Cities),03:00-06:00,4031,TimeSlot,03:00-06:00,Night,1
+Total (Cities),06:00-09:00,7519,TimeSlot,06:00-09:00,Day,2
+Total (Cities),09:00-12:00,10422,TimeSlot,09:00-12:00,Day,3
+Total (Cities),12:00-15:00,10429,TimeSlot,12:00-15:00,Day,4
+Total (Cities),15:00-18:00,10969,TimeSlot,15:00-18:00,Day,5
+Total (Cities),18:00-21:00,12046,TimeSlot,18:00-21:00,Night,6
+Total (Cities),21:00-24:00,9611,TimeSlot,21:00-24:00,Night,7

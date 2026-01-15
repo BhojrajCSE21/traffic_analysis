@@ -1,0 +1,90 @@
+State,Cases,Injured,Died,FatalityRate,InjuryRate,RiskCategory,Region
+Andhra Pradesh,21078,20409,9284,44.05,96.83,Medium Risk,South
+Arunachal Pradesh,234,218,137,58.55,93.16,High Risk,East
+Assam,8197,5917,4072,49.68,72.18,Medium Risk,East
+Bihar,12649,6539,10569,83.56,51.7,High Risk,East
+Chhattisgarh,14003,11743,6699,47.84,83.86,Medium Risk,Central
+Goa,2891,1182,335,11.59,40.89,Low Risk,West
+Gujarat,17102,15383,8617,50.39,89.95,Medium Risk,West
+Haryana,12217,8666,6535,53.49,70.93,High Risk,North
+Himachal Pradesh,2255,3301,885,39.25,146.39,Medium Risk,North
+Jharkhand,5735,3593,4587,79.98,62.65,High Risk,East
+Karnataka,43440,52547,12323,28.37,120.96,Low Risk,South
+Kerala,46392,54327,4495,9.69,117.1,Low Risk,South
+Madhya Pradesh,56475,54703,15807,27.99,96.86,Low Risk,Central
+Maharashtra,36906,30327,18879,51.15,82.17,High Risk,West
+Manipur,398,636,73,18.34,159.8,Low Risk,East
+Meghalaya,232,259,168,72.41,111.64,High Risk,East
+Mizoram,47,53,49,104.26,112.77,High Risk,East
+Nagaland,44,46,46,104.55,104.55,High Risk,East
+Odisha,11992,10369,5739,47.86,86.47,Medium Risk,East
+Punjab,7263,3383,5823,80.17,46.58,High Risk,North
+Rajasthan,25825,23290,12879,49.87,90.18,Medium Risk,West
+Sikkim,174,376,68,39.08,216.09,Medium Risk,East
+Tamil Nadu,69491,72662,20279,29.18,104.56,Low Risk,South
+Telangana,23673,21022,8435,35.63,88.8,Low Risk,South
+Tripura,608,609,292,48.03,100.16,Medium Risk,East
+Uttar Pradesh,42001,23905,28103,66.91,56.92,High Risk,North
+Uttarakhand,1758,1488,1121,63.77,84.64,High Risk,North
+West Bengal,13219,8492,8147,61.63,64.24,High Risk,East
+Andaman and Nagar Islands,25,11,27,108.0,44.0,High Risk,Other
+Chandigarh,182,171,67,36.81,93.96,Low Risk,North
+Dadra and Nagar Haveli and Daman and Diu,183,216,81,44.26,118.03,Medium Risk,Other
+Delhi,6543,5080,2085,31.87,77.64,Low Risk,North
+Jammu and Kashmir,6351,8416,948,14.93,132.51,Low Risk,Other
+Ladakh,289,310,59,20.42,107.27,Low Risk,North
+Lakshadweep,1,1,0,0.0,100.0,Low Risk,South
+Puducherry,1317,1578,158,12.0,119.82,Low Risk,South
+Agra,590,157,528,89.49,26.61,High Risk,Other
+Ahmedabad,1808,1347,577,31.91,74.5,Low Risk,Other
+Amritsar,147,73,110,74.83,49.66,High Risk,Other
+Asansol,406,173,344,84.73,42.61,High Risk,Other
+Aurangabad,604,402,265,43.87,66.56,Medium Risk,Other
+Bengaluru,4980,4162,915,18.37,83.57,Low Risk,Other
+Bhopal,2968,2196,258,8.69,73.99,Low Risk,Other
+Chandigarh (City),182,171,67,36.81,93.96,Low Risk,Other
+Chennai,3653,3958,503,13.77,108.35,Low Risk,Other
+Coimbatore,1161,993,305,26.27,85.53,Low Risk,Other
+Delhi (City),6543,5080,2085,31.87,77.64,Low Risk,Other
+Dhanbad,195,70,126,64.62,35.9,High Risk,Other
+Durg Bhilainagar,807,649,157,19.45,80.42,Low Risk,Other
+Faridabad,636,485,307,48.27,76.26,Medium Risk,Other
+Ghaziabad,928,661,403,43.43,71.23,Medium Risk,Other
+Gwalior,1267,1138,207,16.34,89.82,Low Risk,Other
+Hyderabad,2943,2596,335,11.38,88.21,Low Risk,Other
+Indore,3580,2768,310,8.66,77.32,Low Risk,Other
+Jabalpur,2350,2606,299,12.72,110.89,Low Risk,Other
+Jaipur,3082,2333,1017,33.0,75.7,Low Risk,Other
+Jamshedpur,155,134,72,46.45,86.45,Medium Risk,Other
+Jodhpur,699,573,270,38.63,81.97,Medium Risk,Other
+Kannur,1562,2018,148,9.48,129.19,Low Risk,Other
+Kanpur,1776,985,791,44.54,55.46,Medium Risk,Other
+Kochi,2610,2788,202,7.74,106.82,Low Risk,Other
+Kolkata,1129,925,204,18.07,81.93,Low Risk,Other
+Kollam,2135,2318,251,11.76,108.57,Low Risk,Other
+Kota,611,642,135,22.09,105.07,Low Risk,Other
+Kozhikode,2045,2266,192,9.39,110.81,Low Risk,Other
+Lucknow,1235,784,547,44.29,63.48,Medium Risk,Other
+Ludhiana,504,209,402,79.76,41.47,High Risk,Other
+Madurai,768,583,264,34.38,75.91,Low Risk,Other
+Malappuram,959,1194,111,11.57,124.5,Low Risk,Other
+Meerut,496,404,198,39.92,81.45,Medium Risk,Other
+Mumbai,414,1924,414,100.0,464.73,High Risk,Other
+Nagpur,1276,1211,371,29.08,94.91,Low Risk,Other
+Nasik,261,150,261,100.0,57.47,High Risk,Other
+Patna,322,166,200,62.11,51.55,High Risk,Other
+Prayagraj,1297,865,582,44.87,66.69,Medium Risk,Other
+Pune,546,185,437,80.04,33.88,High Risk,Other
+Raipur,1087,663,168,15.46,60.99,Low Risk,Other
+Rajkot,505,380,189,37.43,75.25,Low Risk,Other
+Ranchi,263,192,117,44.49,73.0,Medium Risk,Other
+Srinagar,476,491,55,11.55,103.15,Low Risk,Other
+Surat,685,461,344,50.22,67.3,Medium Risk,Other
+Thiruvananthapuram,2106,2326,137,6.51,110.45,Low Risk,Other
+Thrissur,2456,3029,243,9.89,123.33,Low Risk,Other
+Tiruchirappalli,619,652,165,26.66,105.33,Low Risk,Other
+Vadodara,573,404,206,35.95,70.51,Low Risk,Other
+Varanasi,237,158,264,111.39,66.67,High Risk,Other
+Vasai Virar,365,246,154,42.19,67.4,Medium Risk,Other
+Vijayawada,1522,1416,373,24.51,93.04,Low Risk,Other
+Vishakhapatnam,1297,1222,326,25.13,94.22,Low Risk,Other

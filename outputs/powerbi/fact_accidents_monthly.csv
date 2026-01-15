@@ -1,0 +1,1117 @@
+State,Month,MonthNum,Accidents,Quarter,Season
+Andhra Pradesh,January,1,1707,Q1,Winter
+Andhra Pradesh,February,2,1612,Q1,Winter
+Andhra Pradesh,March,3,1689,Q1,Spring
+Andhra Pradesh,April,4,1627,Q2,Spring
+Andhra Pradesh,May,5,1951,Q2,Spring
+Andhra Pradesh,June,6,1785,Q2,Summer
+Andhra Pradesh,July,7,1636,Q3,Summer
+Andhra Pradesh,August,8,1691,Q3,Monsoon
+Andhra Pradesh,September,9,1598,Q3,Monsoon
+Andhra Pradesh,October,10,1598,Q4,Autumn
+Andhra Pradesh,November,11,1573,Q4,Autumn
+Andhra Pradesh,December,12,1482,Q4,Winter
+Arunachal Pradesh,January,1,20,Q1,Winter
+Arunachal Pradesh,February,2,15,Q1,Winter
+Arunachal Pradesh,March,3,17,Q1,Spring
+Arunachal Pradesh,April,4,11,Q2,Spring
+Arunachal Pradesh,May,5,17,Q2,Spring
+Arunachal Pradesh,June,6,18,Q2,Summer
+Arunachal Pradesh,July,7,20,Q3,Summer
+Arunachal Pradesh,August,8,10,Q3,Monsoon
+Arunachal Pradesh,September,9,21,Q3,Monsoon
+Arunachal Pradesh,October,10,20,Q4,Autumn
+Arunachal Pradesh,November,11,29,Q4,Autumn
+Arunachal Pradesh,December,12,35,Q4,Winter
+Assam,January,1,654,Q1,Winter
+Assam,February,2,580,Q1,Winter
+Assam,March,3,653,Q1,Spring
+Assam,April,4,616,Q2,Spring
+Assam,May,5,686,Q2,Spring
+Assam,June,6,555,Q2,Summer
+Assam,July,7,527,Q3,Summer
+Assam,August,8,533,Q3,Monsoon
+Assam,September,9,613,Q3,Monsoon
+Assam,October,10,582,Q4,Autumn
+Assam,November,11,697,Q4,Autumn
+Assam,December,12,725,Q4,Winter
+Bihar,January,1,804,Q1,Winter
+Bihar,February,2,903,Q1,Winter
+Bihar,March,3,959,Q1,Spring
+Bihar,April,4,860,Q2,Spring
+Bihar,May,5,1178,Q2,Spring
+Bihar,June,6,1157,Q2,Summer
+Bihar,July,7,895,Q3,Summer
+Bihar,August,8,764,Q3,Monsoon
+Bihar,September,9,772,Q3,Monsoon
+Bihar,October,10,825,Q4,Autumn
+Bihar,November,11,855,Q4,Autumn
+Bihar,December,12,1042,Q4,Winter
+Chhattisgarh,January,1,1397,Q1,Winter
+Chhattisgarh,February,2,1184,Q1,Winter
+Chhattisgarh,March,3,1093,Q1,Spring
+Chhattisgarh,April,4,1143,Q2,Spring
+Chhattisgarh,May,5,1242,Q2,Spring
+Chhattisgarh,June,6,1097,Q2,Summer
+Chhattisgarh,July,7,1050,Q3,Summer
+Chhattisgarh,August,8,1074,Q3,Monsoon
+Chhattisgarh,September,9,1008,Q3,Monsoon
+Chhattisgarh,October,10,1087,Q4,Autumn
+Chhattisgarh,November,11,1006,Q4,Autumn
+Chhattisgarh,December,12,1088,Q4,Winter
+Goa,January,1,273,Q1,Winter
+Goa,February,2,232,Q1,Winter
+Goa,March,3,246,Q1,Spring
+Goa,April,4,233,Q2,Spring
+Goa,May,5,261,Q2,Spring
+Goa,June,6,231,Q2,Summer
+Goa,July,7,209,Q3,Summer
+Goa,August,8,235,Q3,Monsoon
+Goa,September,9,224,Q3,Monsoon
+Goa,October,10,224,Q4,Autumn
+Goa,November,11,201,Q4,Autumn
+Goa,December,12,278,Q4,Winter
+Gujarat,January,1,1493,Q1,Winter
+Gujarat,February,2,1436,Q1,Winter
+Gujarat,March,3,1447,Q1,Spring
+Gujarat,April,4,1408,Q2,Spring
+Gujarat,May,5,1572,Q2,Spring
+Gujarat,June,6,1310,Q2,Summer
+Gujarat,July,7,1212,Q3,Summer
+Gujarat,August,8,1155,Q3,Monsoon
+Gujarat,September,9,1207,Q3,Monsoon
+Gujarat,October,10,1385,Q4,Autumn
+Gujarat,November,11,1286,Q4,Autumn
+Gujarat,December,12,1438,Q4,Winter
+Haryana,January,1,819,Q1,Winter
+Haryana,February,2,893,Q1,Winter
+Haryana,March,3,929,Q1,Spring
+Haryana,April,4,955,Q2,Spring
+Haryana,May,5,930,Q2,Spring
+Haryana,June,6,897,Q2,Summer
+Haryana,July,7,940,Q3,Summer
+Haryana,August,8,836,Q3,Monsoon
+Haryana,September,9,987,Q3,Monsoon
+Haryana,October,10,983,Q4,Autumn
+Haryana,November,11,917,Q4,Autumn
+Haryana,December,12,997,Q4,Winter
+Himachal Pradesh,January,1,172,Q1,Winter
+Himachal Pradesh,February,2,175,Q1,Winter
+Himachal Pradesh,March,3,226,Q1,Spring
+Himachal Pradesh,April,4,162,Q2,Spring
+Himachal Pradesh,May,5,211,Q2,Spring
+Himachal Pradesh,June,6,200,Q2,Summer
+Himachal Pradesh,July,7,185,Q3,Summer
+Himachal Pradesh,August,8,157,Q3,Monsoon
+Himachal Pradesh,September,9,200,Q3,Monsoon
+Himachal Pradesh,October,10,205,Q4,Autumn
+Himachal Pradesh,November,11,165,Q4,Autumn
+Himachal Pradesh,December,12,197,Q4,Winter
+Jharkhand,January,1,456,Q1,Winter
+Jharkhand,February,2,459,Q1,Winter
+Jharkhand,March,3,461,Q1,Spring
+Jharkhand,April,4,431,Q2,Spring
+Jharkhand,May,5,494,Q2,Spring
+Jharkhand,June,6,445,Q2,Summer
+Jharkhand,July,7,418,Q3,Summer
+Jharkhand,August,8,384,Q3,Monsoon
+Jharkhand,September,9,393,Q3,Monsoon
+Jharkhand,October,10,401,Q4,Autumn
+Jharkhand,November,11,495,Q4,Autumn
+Jharkhand,December,12,479,Q4,Winter
+Karnataka,January,1,3820,Q1,Winter
+Karnataka,February,2,3555,Q1,Winter
+Karnataka,March,3,3548,Q1,Spring
+Karnataka,April,4,3382,Q2,Spring
+Karnataka,May,5,3793,Q2,Spring
+Karnataka,June,6,3630,Q2,Summer
+Karnataka,July,7,3378,Q3,Summer
+Karnataka,August,8,3520,Q3,Monsoon
+Karnataka,September,9,3575,Q3,Monsoon
+Karnataka,October,10,3644,Q4,Autumn
+Karnataka,November,11,3604,Q4,Autumn
+Karnataka,December,12,3990,Q4,Winter
+Kerala,January,1,4309,Q1,Winter
+Kerala,February,2,3833,Q1,Winter
+Kerala,March,3,3929,Q1,Spring
+Kerala,April,4,3852,Q2,Spring
+Kerala,May,5,3904,Q2,Spring
+Kerala,June,6,3625,Q2,Summer
+Kerala,July,7,3493,Q3,Summer
+Kerala,August,8,3832,Q3,Monsoon
+Kerala,September,9,3851,Q3,Monsoon
+Kerala,October,10,3673,Q4,Autumn
+Kerala,November,11,3801,Q4,Autumn
+Kerala,December,12,3879,Q4,Winter
+Madhya Pradesh,January,1,5194,Q1,Winter
+Madhya Pradesh,February,2,4530,Q1,Winter
+Madhya Pradesh,March,3,4842,Q1,Spring
+Madhya Pradesh,April,4,4504,Q2,Spring
+Madhya Pradesh,May,5,5283,Q2,Spring
+Madhya Pradesh,June,6,4758,Q2,Summer
+Madhya Pradesh,July,7,4277,Q3,Summer
+Madhya Pradesh,August,8,4042,Q3,Monsoon
+Madhya Pradesh,September,9,4199,Q3,Monsoon
+Madhya Pradesh,October,10,4534,Q4,Autumn
+Madhya Pradesh,November,11,4451,Q4,Autumn
+Madhya Pradesh,December,12,4149,Q4,Winter
+Maharashtra,January,1,2734,Q1,Winter
+Maharashtra,February,2,2541,Q1,Winter
+Maharashtra,March,3,2568,Q1,Spring
+Maharashtra,April,4,2550,Q2,Spring
+Maharashtra,May,5,2904,Q2,Spring
+Maharashtra,June,6,2660,Q2,Summer
+Maharashtra,July,7,2426,Q3,Summer
+Maharashtra,August,8,2530,Q3,Monsoon
+Maharashtra,September,9,2328,Q3,Monsoon
+Maharashtra,October,10,2547,Q4,Autumn
+Maharashtra,November,11,2609,Q4,Autumn
+Maharashtra,December,12,2950,Q4,Winter
+Manipur,January,1,50,Q1,Winter
+Manipur,February,2,52,Q1,Winter
+Manipur,March,3,49,Q1,Spring
+Manipur,April,4,44,Q2,Spring
+Manipur,May,5,18,Q2,Spring
+Manipur,June,6,21,Q2,Summer
+Manipur,July,7,27,Q3,Summer
+Manipur,August,8,13,Q3,Monsoon
+Manipur,September,9,26,Q3,Monsoon
+Manipur,October,10,30,Q4,Autumn
+Manipur,November,11,30,Q4,Autumn
+Manipur,December,12,38,Q4,Winter
+Meghalaya,January,1,16,Q1,Winter
+Meghalaya,February,2,21,Q1,Winter
+Meghalaya,March,3,33,Q1,Spring
+Meghalaya,April,4,17,Q2,Spring
+Meghalaya,May,5,24,Q2,Spring
+Meghalaya,June,6,16,Q2,Summer
+Meghalaya,July,7,16,Q3,Summer
+Meghalaya,August,8,21,Q3,Monsoon
+Meghalaya,September,9,17,Q3,Monsoon
+Meghalaya,October,10,12,Q4,Autumn
+Meghalaya,November,11,18,Q4,Autumn
+Meghalaya,December,12,21,Q4,Winter
+Mizoram,January,1,2,Q1,Winter
+Mizoram,February,2,2,Q1,Winter
+Mizoram,March,3,7,Q1,Spring
+Mizoram,April,4,3,Q2,Spring
+Mizoram,May,5,4,Q2,Spring
+Mizoram,June,6,7,Q2,Summer
+Mizoram,July,7,3,Q3,Summer
+Mizoram,August,8,1,Q3,Monsoon
+Mizoram,September,9,3,Q3,Monsoon
+Mizoram,October,10,2,Q4,Autumn
+Mizoram,November,11,5,Q4,Autumn
+Mizoram,December,12,8,Q4,Winter
+Nagaland,January,1,2,Q1,Winter
+Nagaland,February,2,2,Q1,Winter
+Nagaland,March,3,3,Q1,Spring
+Nagaland,April,4,0,Q2,Spring
+Nagaland,May,5,6,Q2,Spring
+Nagaland,June,6,3,Q2,Summer
+Nagaland,July,7,4,Q3,Summer
+Nagaland,August,8,5,Q3,Monsoon
+Nagaland,September,9,4,Q3,Monsoon
+Nagaland,October,10,3,Q4,Autumn
+Nagaland,November,11,0,Q4,Autumn
+Nagaland,December,12,3,Q4,Winter
+Odisha,January,1,1199,Q1,Winter
+Odisha,February,2,1076,Q1,Winter
+Odisha,March,3,1052,Q1,Spring
+Odisha,April,4,919,Q2,Spring
+Odisha,May,5,1037,Q2,Spring
+Odisha,June,6,928,Q2,Summer
+Odisha,July,7,906,Q3,Summer
+Odisha,August,8,870,Q3,Monsoon
+Odisha,September,9,889,Q3,Monsoon
+Odisha,October,10,967,Q4,Autumn
+Odisha,November,11,1004,Q4,Autumn
+Odisha,December,12,1142,Q4,Winter
+Punjab,January,1,463,Q1,Winter
+Punjab,February,2,499,Q1,Winter
+Punjab,March,3,492,Q1,Spring
+Punjab,April,4,526,Q2,Spring
+Punjab,May,5,568,Q2,Spring
+Punjab,June,6,547,Q2,Summer
+Punjab,July,7,454,Q3,Summer
+Punjab,August,8,479,Q3,Monsoon
+Punjab,September,9,509,Q3,Monsoon
+Punjab,October,10,579,Q4,Autumn
+Punjab,November,11,618,Q4,Autumn
+Punjab,December,12,542,Q4,Winter
+Rajasthan,January,1,2208,Q1,Winter
+Rajasthan,February,2,1985,Q1,Winter
+Rajasthan,March,3,2079,Q1,Spring
+Rajasthan,April,4,2047,Q2,Spring
+Rajasthan,May,5,2241,Q2,Spring
+Rajasthan,June,6,2086,Q2,Summer
+Rajasthan,July,7,2074,Q3,Summer
+Rajasthan,August,8,1953,Q3,Monsoon
+Rajasthan,September,9,2179,Q3,Monsoon
+Rajasthan,October,10,2147,Q4,Autumn
+Rajasthan,November,11,2020,Q4,Autumn
+Rajasthan,December,12,1842,Q4,Winter
+Sikkim,January,1,17,Q1,Winter
+Sikkim,February,2,12,Q1,Winter
+Sikkim,March,3,11,Q1,Spring
+Sikkim,April,4,18,Q2,Spring
+Sikkim,May,5,13,Q2,Spring
+Sikkim,June,6,14,Q2,Summer
+Sikkim,July,7,14,Q3,Summer
+Sikkim,August,8,17,Q3,Monsoon
+Sikkim,September,9,13,Q3,Monsoon
+Sikkim,October,10,13,Q4,Autumn
+Sikkim,November,11,15,Q4,Autumn
+Sikkim,December,12,17,Q4,Winter
+Tamil Nadu,January,1,6024,Q1,Winter
+Tamil Nadu,February,2,5301,Q1,Winter
+Tamil Nadu,March,3,5468,Q1,Spring
+Tamil Nadu,April,4,5661,Q2,Spring
+Tamil Nadu,May,5,5811,Q2,Spring
+Tamil Nadu,June,6,5620,Q2,Summer
+Tamil Nadu,July,7,5709,Q3,Summer
+Tamil Nadu,August,8,6070,Q3,Monsoon
+Tamil Nadu,September,9,5484,Q3,Monsoon
+Tamil Nadu,October,10,5644,Q4,Autumn
+Tamil Nadu,November,11,5369,Q4,Autumn
+Tamil Nadu,December,12,5052,Q4,Winter
+Telangana,January,1,1835,Q1,Winter
+Telangana,February,2,1770,Q1,Winter
+Telangana,March,3,1854,Q1,Spring
+Telangana,April,4,1866,Q2,Spring
+Telangana,May,5,2186,Q2,Spring
+Telangana,June,6,2082,Q2,Summer
+Telangana,July,7,1725,Q3,Summer
+Telangana,August,8,1832,Q3,Monsoon
+Telangana,September,9,1766,Q3,Monsoon
+Telangana,October,10,1882,Q4,Autumn
+Telangana,November,11,1904,Q4,Autumn
+Telangana,December,12,2201,Q4,Winter
+Tripura,January,1,42,Q1,Winter
+Tripura,February,2,36,Q1,Winter
+Tripura,March,3,48,Q1,Spring
+Tripura,April,4,48,Q2,Spring
+Tripura,May,5,47,Q2,Spring
+Tripura,June,6,53,Q2,Summer
+Tripura,July,7,50,Q3,Summer
+Tripura,August,8,53,Q3,Monsoon
+Tripura,September,9,40,Q3,Monsoon
+Tripura,October,10,42,Q4,Autumn
+Tripura,November,11,55,Q4,Autumn
+Tripura,December,12,63,Q4,Winter
+Uttar Pradesh,January,1,3777,Q1,Winter
+Uttar Pradesh,February,2,3290,Q1,Winter
+Uttar Pradesh,March,3,3129,Q1,Spring
+Uttar Pradesh,April,4,2740,Q2,Spring
+Uttar Pradesh,May,5,3183,Q2,Spring
+Uttar Pradesh,June,6,3132,Q2,Summer
+Uttar Pradesh,July,7,2867,Q3,Summer
+Uttar Pradesh,August,8,2945,Q3,Monsoon
+Uttar Pradesh,September,9,2672,Q3,Monsoon
+Uttar Pradesh,October,10,2914,Q4,Autumn
+Uttar Pradesh,November,11,3332,Q4,Autumn
+Uttar Pradesh,December,12,3783,Q4,Winter
+Uttarakhand,January,1,126,Q1,Winter
+Uttarakhand,February,2,118,Q1,Winter
+Uttarakhand,March,3,118,Q1,Spring
+Uttarakhand,April,4,150,Q2,Spring
+Uttarakhand,May,5,180,Q2,Spring
+Uttarakhand,June,6,148,Q2,Summer
+Uttarakhand,July,7,140,Q3,Summer
+Uttarakhand,August,8,125,Q3,Monsoon
+Uttarakhand,September,9,119,Q3,Monsoon
+Uttarakhand,October,10,149,Q4,Autumn
+Uttarakhand,November,11,147,Q4,Autumn
+Uttarakhand,December,12,171,Q4,Winter
+West Bengal,January,1,909,Q1,Winter
+West Bengal,February,2,811,Q1,Winter
+West Bengal,March,3,890,Q1,Spring
+West Bengal,April,4,783,Q2,Spring
+West Bengal,May,5,906,Q2,Spring
+West Bengal,June,6,864,Q2,Summer
+West Bengal,July,7,794,Q3,Summer
+West Bengal,August,8,880,Q3,Monsoon
+West Bengal,September,9,852,Q3,Monsoon
+West Bengal,October,10,910,Q4,Autumn
+West Bengal,November,11,889,Q4,Autumn
+West Bengal,December,12,912,Q4,Winter
+Total (States),January,1,40522,Q1,Winter
+Total (States),February,2,36923,Q1,Winter
+Total (States),March,3,37840,Q1,Spring
+Total (States),April,4,36556,Q2,Spring
+Total (States),May,5,40650,Q2,Spring
+Total (States),June,6,37889,Q2,Summer
+Total (States),July,7,35449,Q3,Summer
+Total (States),August,8,36027,Q3,Monsoon
+Total (States),September,9,35549,Q3,Monsoon
+Total (States),October,10,37002,Q4,Autumn
+Total (States),November,11,37095,Q4,Autumn
+Total (States),December,12,38524,Q4,Winter
+Andaman and Nicobar Islands,January,1,2,Q1,Winter
+Andaman and Nicobar Islands,February,2,4,Q1,Winter
+Andaman and Nicobar Islands,March,3,4,Q1,Spring
+Andaman and Nicobar Islands,April,4,3,Q2,Spring
+Andaman and Nicobar Islands,May,5,1,Q2,Spring
+Andaman and Nicobar Islands,June,6,1,Q2,Summer
+Andaman and Nicobar Islands,July,7,3,Q3,Summer
+Andaman and Nicobar Islands,August,8,2,Q3,Monsoon
+Andaman and Nicobar Islands,September,9,1,Q3,Monsoon
+Andaman and Nicobar Islands,October,10,0,Q4,Autumn
+Andaman and Nicobar Islands,November,11,2,Q4,Autumn
+Andaman and Nicobar Islands,December,12,2,Q4,Winter
+Chandigarh,January,1,15,Q1,Winter
+Chandigarh,February,2,11,Q1,Winter
+Chandigarh,March,3,13,Q1,Spring
+Chandigarh,April,4,15,Q2,Spring
+Chandigarh,May,5,19,Q2,Spring
+Chandigarh,June,6,10,Q2,Summer
+Chandigarh,July,7,17,Q3,Summer
+Chandigarh,August,8,23,Q3,Monsoon
+Chandigarh,September,9,18,Q3,Monsoon
+Chandigarh,October,10,10,Q4,Autumn
+Chandigarh,November,11,18,Q4,Autumn
+Chandigarh,December,12,13,Q4,Winter
+Dadra and Nagar Haveli and Daman and Diu,January,1,16,Q1,Winter
+Dadra and Nagar Haveli and Daman and Diu,February,2,20,Q1,Winter
+Dadra and Nagar Haveli and Daman and Diu,March,3,17,Q1,Spring
+Dadra and Nagar Haveli and Daman and Diu,April,4,15,Q2,Spring
+Dadra and Nagar Haveli and Daman and Diu,May,5,19,Q2,Spring
+Dadra and Nagar Haveli and Daman and Diu,June,6,15,Q2,Summer
+Dadra and Nagar Haveli and Daman and Diu,July,7,8,Q3,Summer
+Dadra and Nagar Haveli and Daman and Diu,August,8,19,Q3,Monsoon
+Dadra and Nagar Haveli and Daman and Diu,September,9,17,Q3,Monsoon
+Dadra and Nagar Haveli and Daman and Diu,October,10,13,Q4,Autumn
+Dadra and Nagar Haveli and Daman and Diu,November,11,12,Q4,Autumn
+Dadra and Nagar Haveli and Daman and Diu,December,12,12,Q4,Winter
+Delhi,January,1,426,Q1,Winter
+Delhi,February,2,433,Q1,Winter
+Delhi,March,3,425,Q1,Spring
+Delhi,April,4,460,Q2,Spring
+Delhi,May,5,488,Q2,Spring
+Delhi,June,6,455,Q2,Summer
+Delhi,July,7,463,Q3,Summer
+Delhi,August,8,523,Q3,Monsoon
+Delhi,September,9,496,Q3,Monsoon
+Delhi,October,10,548,Q4,Autumn
+Delhi,November,11,476,Q4,Autumn
+Delhi,December,12,522,Q4,Winter
+Jammu and Kashmir,January,1,393,Q1,Winter
+Jammu and Kashmir,February,2,443,Q1,Winter
+Jammu and Kashmir,March,3,479,Q1,Spring
+Jammu and Kashmir,April,4,499,Q2,Spring
+Jammu and Kashmir,May,5,563,Q2,Spring
+Jammu and Kashmir,June,6,595,Q2,Summer
+Jammu and Kashmir,July,7,588,Q3,Summer
+Jammu and Kashmir,August,8,610,Q3,Monsoon
+Jammu and Kashmir,September,9,551,Q3,Monsoon
+Jammu and Kashmir,October,10,598,Q4,Autumn
+Jammu and Kashmir,November,11,580,Q4,Autumn
+Jammu and Kashmir,December,12,401,Q4,Winter
+Ladakh,January,1,8,Q1,Winter
+Ladakh,February,2,7,Q1,Winter
+Ladakh,March,3,11,Q1,Spring
+Ladakh,April,4,22,Q2,Spring
+Ladakh,May,5,30,Q2,Spring
+Ladakh,June,6,43,Q2,Summer
+Ladakh,July,7,37,Q3,Summer
+Ladakh,August,8,30,Q3,Monsoon
+Ladakh,September,9,33,Q3,Monsoon
+Ladakh,October,10,28,Q4,Autumn
+Ladakh,November,11,28,Q4,Autumn
+Ladakh,December,12,12,Q4,Winter
+Lakshadweep,January,1,0,Q1,Winter
+Lakshadweep,February,2,0,Q1,Winter
+Lakshadweep,March,3,0,Q1,Spring
+Lakshadweep,April,4,0,Q2,Spring
+Lakshadweep,May,5,0,Q2,Spring
+Lakshadweep,June,6,0,Q2,Summer
+Lakshadweep,July,7,0,Q3,Summer
+Lakshadweep,August,8,0,Q3,Monsoon
+Lakshadweep,September,9,0,Q3,Monsoon
+Lakshadweep,October,10,0,Q4,Autumn
+Lakshadweep,November,11,1,Q4,Autumn
+Lakshadweep,December,12,0,Q4,Winter
+Puducherry,January,1,117,Q1,Winter
+Puducherry,February,2,103,Q1,Winter
+Puducherry,March,3,123,Q1,Spring
+Puducherry,April,4,106,Q2,Spring
+Puducherry,May,5,121,Q2,Spring
+Puducherry,June,6,113,Q2,Summer
+Puducherry,July,7,111,Q3,Summer
+Puducherry,August,8,105,Q3,Monsoon
+Puducherry,September,9,114,Q3,Monsoon
+Puducherry,October,10,98,Q4,Autumn
+Puducherry,November,11,92,Q4,Autumn
+Puducherry,December,12,105,Q4,Winter
+Total (UTs),January,1,977,Q1,Winter
+Total (UTs),February,2,1021,Q1,Winter
+Total (UTs),March,3,1072,Q1,Spring
+Total (UTs),April,4,1120,Q2,Spring
+Total (UTs),May,5,1241,Q2,Spring
+Total (UTs),June,6,1232,Q2,Summer
+Total (UTs),July,7,1227,Q3,Summer
+Total (UTs),August,8,1312,Q3,Monsoon
+Total (UTs),September,9,1230,Q3,Monsoon
+Total (UTs),October,10,1295,Q4,Autumn
+Total (UTs),November,11,1209,Q4,Autumn
+Total (UTs),December,12,1067,Q4,Winter
+Total (All India),January,1,41499,Q1,Winter
+Total (All India),February,2,37944,Q1,Winter
+Total (All India),March,3,38912,Q1,Spring
+Total (All India),April,4,37676,Q2,Spring
+Total (All India),May,5,41891,Q2,Spring
+Total (All India),June,6,39121,Q2,Summer
+Total (All India),July,7,36676,Q3,Summer
+Total (All India),August,8,37339,Q3,Monsoon
+Total (All India),September,9,36779,Q3,Monsoon
+Total (All India),October,10,38297,Q4,Autumn
+Total (All India),November,11,38304,Q4,Autumn
+Total (All India),December,12,39591,Q4,Winter
+Agra,January,1,39,Q1,Winter
+Agra,February,2,47,Q1,Winter
+Agra,March,3,58,Q1,Spring
+Agra,April,4,35,Q2,Spring
+Agra,May,5,45,Q2,Spring
+Agra,June,6,60,Q2,Summer
+Agra,July,7,45,Q3,Summer
+Agra,August,8,32,Q3,Monsoon
+Agra,September,9,37,Q3,Monsoon
+Agra,October,10,45,Q4,Autumn
+Agra,November,11,47,Q4,Autumn
+Agra,December,12,63,Q4,Winter
+Ahmedabad,January,1,177,Q1,Winter
+Ahmedabad,February,2,120,Q1,Winter
+Ahmedabad,March,3,158,Q1,Spring
+Ahmedabad,April,4,154,Q2,Spring
+Ahmedabad,May,5,141,Q2,Spring
+Ahmedabad,June,6,134,Q2,Summer
+Ahmedabad,July,7,139,Q3,Summer
+Ahmedabad,August,8,139,Q3,Monsoon
+Ahmedabad,September,9,154,Q3,Monsoon
+Ahmedabad,October,10,151,Q4,Autumn
+Ahmedabad,November,11,129,Q4,Autumn
+Ahmedabad,December,12,171,Q4,Winter
+Amritsar,January,1,9,Q1,Winter
+Amritsar,February,2,8,Q1,Winter
+Amritsar,March,3,15,Q1,Spring
+Amritsar,April,4,9,Q2,Spring
+Amritsar,May,5,12,Q2,Spring
+Amritsar,June,6,21,Q2,Summer
+Amritsar,July,7,14,Q3,Summer
+Amritsar,August,8,12,Q3,Monsoon
+Amritsar,September,9,16,Q3,Monsoon
+Amritsar,October,10,15,Q4,Autumn
+Amritsar,November,11,11,Q4,Autumn
+Amritsar,December,12,5,Q4,Winter
+Asansol,January,1,39,Q1,Winter
+Asansol,February,2,29,Q1,Winter
+Asansol,March,3,39,Q1,Spring
+Asansol,April,4,27,Q2,Spring
+Asansol,May,5,39,Q2,Spring
+Asansol,June,6,37,Q2,Summer
+Asansol,July,7,24,Q3,Summer
+Asansol,August,8,36,Q3,Monsoon
+Asansol,September,9,36,Q3,Monsoon
+Asansol,October,10,32,Q4,Autumn
+Asansol,November,11,35,Q4,Autumn
+Asansol,December,12,28,Q4,Winter
+Aurangabad,January,1,36,Q1,Winter
+Aurangabad,February,2,44,Q1,Winter
+Aurangabad,March,3,42,Q1,Spring
+Aurangabad,April,4,45,Q2,Spring
+Aurangabad,May,5,75,Q2,Spring
+Aurangabad,June,6,40,Q2,Summer
+Aurangabad,July,7,55,Q3,Summer
+Aurangabad,August,8,55,Q3,Monsoon
+Aurangabad,September,9,49,Q3,Monsoon
+Aurangabad,October,10,43,Q4,Autumn
+Aurangabad,November,11,38,Q4,Autumn
+Aurangabad,December,12,38,Q4,Winter
+Bengaluru,January,1,431,Q1,Winter
+Bengaluru,February,2,369,Q1,Winter
+Bengaluru,March,3,396,Q1,Spring
+Bengaluru,April,4,357,Q2,Spring
+Bengaluru,May,5,375,Q2,Spring
+Bengaluru,June,6,426,Q2,Summer
+Bengaluru,July,7,436,Q3,Summer
+Bengaluru,August,8,457,Q3,Monsoon
+Bengaluru,September,9,458,Q3,Monsoon
+Bengaluru,October,10,391,Q4,Autumn
+Bengaluru,November,11,400,Q4,Autumn
+Bengaluru,December,12,484,Q4,Winter
+Bhopal,January,1,254,Q1,Winter
+Bhopal,February,2,265,Q1,Winter
+Bhopal,March,3,227,Q1,Spring
+Bhopal,April,4,213,Q2,Spring
+Bhopal,May,5,281,Q2,Spring
+Bhopal,June,6,273,Q2,Summer
+Bhopal,July,7,238,Q3,Summer
+Bhopal,August,8,242,Q3,Monsoon
+Bhopal,September,9,246,Q3,Monsoon
+Bhopal,October,10,259,Q4,Autumn
+Bhopal,November,11,218,Q4,Autumn
+Bhopal,December,12,190,Q4,Winter
+Chandigarh (City),January,1,15,Q1,Winter
+Chandigarh (City),February,2,11,Q1,Winter
+Chandigarh (City),March,3,13,Q1,Spring
+Chandigarh (City),April,4,15,Q2,Spring
+Chandigarh (City),May,5,19,Q2,Spring
+Chandigarh (City),June,6,10,Q2,Summer
+Chandigarh (City),July,7,17,Q3,Summer
+Chandigarh (City),August,8,23,Q3,Monsoon
+Chandigarh (City),September,9,18,Q3,Monsoon
+Chandigarh (City),October,10,10,Q4,Autumn
+Chandigarh (City),November,11,18,Q4,Autumn
+Chandigarh (City),December,12,13,Q4,Winter
+Chennai,January,1,302,Q1,Winter
+Chennai,February,2,313,Q1,Winter
+Chennai,March,3,314,Q1,Spring
+Chennai,April,4,300,Q2,Spring
+Chennai,May,5,315,Q2,Spring
+Chennai,June,6,287,Q2,Summer
+Chennai,July,7,363,Q3,Summer
+Chennai,August,8,333,Q3,Monsoon
+Chennai,September,9,322,Q3,Monsoon
+Chennai,October,10,308,Q4,Autumn
+Chennai,November,11,254,Q4,Autumn
+Chennai,December,12,242,Q4,Winter
+Coimbatore,January,1,90,Q1,Winter
+Coimbatore,February,2,91,Q1,Winter
+Coimbatore,March,3,95,Q1,Spring
+Coimbatore,April,4,124,Q2,Spring
+Coimbatore,May,5,96,Q2,Spring
+Coimbatore,June,6,83,Q2,Summer
+Coimbatore,July,7,114,Q3,Summer
+Coimbatore,August,8,95,Q3,Monsoon
+Coimbatore,September,9,100,Q3,Monsoon
+Coimbatore,October,10,105,Q4,Autumn
+Coimbatore,November,11,88,Q4,Autumn
+Coimbatore,December,12,80,Q4,Winter
+Delhi (City),January,1,426,Q1,Winter
+Delhi (City),February,2,433,Q1,Winter
+Delhi (City),March,3,425,Q1,Spring
+Delhi (City),April,4,460,Q2,Spring
+Delhi (City),May,5,488,Q2,Spring
+Delhi (City),June,6,455,Q2,Summer
+Delhi (City),July,7,463,Q3,Summer
+Delhi (City),August,8,523,Q3,Monsoon
+Delhi (City),September,9,496,Q3,Monsoon
+Delhi (City),October,10,548,Q4,Autumn
+Delhi (City),November,11,476,Q4,Autumn
+Delhi (City),December,12,522,Q4,Winter
+Dhanbad,January,1,17,Q1,Winter
+Dhanbad,February,2,16,Q1,Winter
+Dhanbad,March,3,18,Q1,Spring
+Dhanbad,April,4,14,Q2,Spring
+Dhanbad,May,5,16,Q2,Spring
+Dhanbad,June,6,22,Q2,Summer
+Dhanbad,July,7,17,Q3,Summer
+Dhanbad,August,8,15,Q3,Monsoon
+Dhanbad,September,9,11,Q3,Monsoon
+Dhanbad,October,10,12,Q4,Autumn
+Dhanbad,November,11,13,Q4,Autumn
+Dhanbad,December,12,24,Q4,Winter
+Durg Bhilainagar,January,1,96,Q1,Winter
+Durg Bhilainagar,February,2,55,Q1,Winter
+Durg Bhilainagar,March,3,56,Q1,Spring
+Durg Bhilainagar,April,4,52,Q2,Spring
+Durg Bhilainagar,May,5,65,Q2,Spring
+Durg Bhilainagar,June,6,62,Q2,Summer
+Durg Bhilainagar,July,7,72,Q3,Summer
+Durg Bhilainagar,August,8,62,Q3,Monsoon
+Durg Bhilainagar,September,9,72,Q3,Monsoon
+Durg Bhilainagar,October,10,76,Q4,Autumn
+Durg Bhilainagar,November,11,64,Q4,Autumn
+Durg Bhilainagar,December,12,55,Q4,Winter
+Faridabad,January,1,53,Q1,Winter
+Faridabad,February,2,61,Q1,Winter
+Faridabad,March,3,57,Q1,Spring
+Faridabad,April,4,47,Q2,Spring
+Faridabad,May,5,59,Q2,Spring
+Faridabad,June,6,55,Q2,Summer
+Faridabad,July,7,51,Q3,Summer
+Faridabad,August,8,38,Q3,Monsoon
+Faridabad,September,9,59,Q3,Monsoon
+Faridabad,October,10,53,Q4,Autumn
+Faridabad,November,11,44,Q4,Autumn
+Faridabad,December,12,59,Q4,Winter
+Ghaziabad,January,1,89,Q1,Winter
+Ghaziabad,February,2,79,Q1,Winter
+Ghaziabad,March,3,81,Q1,Spring
+Ghaziabad,April,4,65,Q2,Spring
+Ghaziabad,May,5,71,Q2,Spring
+Ghaziabad,June,6,69,Q2,Summer
+Ghaziabad,July,7,71,Q3,Summer
+Ghaziabad,August,8,62,Q3,Monsoon
+Ghaziabad,September,9,69,Q3,Monsoon
+Ghaziabad,October,10,62,Q4,Autumn
+Ghaziabad,November,11,91,Q4,Autumn
+Ghaziabad,December,12,84,Q4,Winter
+Gwalior,January,1,99,Q1,Winter
+Gwalior,February,2,85,Q1,Winter
+Gwalior,March,3,119,Q1,Spring
+Gwalior,April,4,116,Q2,Spring
+Gwalior,May,5,92,Q2,Spring
+Gwalior,June,6,91,Q2,Summer
+Gwalior,July,7,101,Q3,Summer
+Gwalior,August,8,78,Q3,Monsoon
+Gwalior,September,9,116,Q3,Monsoon
+Gwalior,October,10,116,Q4,Autumn
+Gwalior,November,11,108,Q4,Autumn
+Gwalior,December,12,109,Q4,Winter
+Hyderabad,January,1,224,Q1,Winter
+Hyderabad,February,2,208,Q1,Winter
+Hyderabad,March,3,190,Q1,Spring
+Hyderabad,April,4,214,Q2,Spring
+Hyderabad,May,5,211,Q2,Spring
+Hyderabad,June,6,243,Q2,Summer
+Hyderabad,July,7,264,Q3,Summer
+Hyderabad,August,8,246,Q3,Monsoon
+Hyderabad,September,9,259,Q3,Monsoon
+Hyderabad,October,10,277,Q4,Autumn
+Hyderabad,November,11,309,Q4,Autumn
+Hyderabad,December,12,298,Q4,Winter
+Indore,January,1,289,Q1,Winter
+Indore,February,2,270,Q1,Winter
+Indore,March,3,312,Q1,Spring
+Indore,April,4,279,Q2,Spring
+Indore,May,5,313,Q2,Spring
+Indore,June,6,303,Q2,Summer
+Indore,July,7,309,Q3,Summer
+Indore,August,8,311,Q3,Monsoon
+Indore,September,9,262,Q3,Monsoon
+Indore,October,10,341,Q4,Autumn
+Indore,November,11,288,Q4,Autumn
+Indore,December,12,289,Q4,Winter
+Jabalpur,January,1,191,Q1,Winter
+Jabalpur,February,2,237,Q1,Winter
+Jabalpur,March,3,197,Q1,Spring
+Jabalpur,April,4,172,Q2,Spring
+Jabalpur,May,5,173,Q2,Spring
+Jabalpur,June,6,186,Q2,Summer
+Jabalpur,July,7,191,Q3,Summer
+Jabalpur,August,8,198,Q3,Monsoon
+Jabalpur,September,9,197,Q3,Monsoon
+Jabalpur,October,10,194,Q4,Autumn
+Jabalpur,November,11,196,Q4,Autumn
+Jabalpur,December,12,187,Q4,Winter
+Jaipur,January,1,248,Q1,Winter
+Jaipur,February,2,211,Q1,Winter
+Jaipur,March,3,219,Q1,Spring
+Jaipur,April,4,253,Q2,Spring
+Jaipur,May,5,250,Q2,Spring
+Jaipur,June,6,237,Q2,Summer
+Jaipur,July,7,239,Q3,Summer
+Jaipur,August,8,260,Q3,Monsoon
+Jaipur,September,9,267,Q3,Monsoon
+Jaipur,October,10,272,Q4,Autumn
+Jaipur,November,11,243,Q4,Autumn
+Jaipur,December,12,215,Q4,Winter
+Jamshedpur,January,1,12,Q1,Winter
+Jamshedpur,February,2,17,Q1,Winter
+Jamshedpur,March,3,12,Q1,Spring
+Jamshedpur,April,4,10,Q2,Spring
+Jamshedpur,May,5,17,Q2,Spring
+Jamshedpur,June,6,10,Q2,Summer
+Jamshedpur,July,7,11,Q3,Summer
+Jamshedpur,August,8,12,Q3,Monsoon
+Jamshedpur,September,9,12,Q3,Monsoon
+Jamshedpur,October,10,13,Q4,Autumn
+Jamshedpur,November,11,14,Q4,Autumn
+Jamshedpur,December,12,15,Q4,Winter
+Jodhpur,January,1,62,Q1,Winter
+Jodhpur,February,2,61,Q1,Winter
+Jodhpur,March,3,58,Q1,Spring
+Jodhpur,April,4,59,Q2,Spring
+Jodhpur,May,5,59,Q2,Spring
+Jodhpur,June,6,52,Q2,Summer
+Jodhpur,July,7,75,Q3,Summer
+Jodhpur,August,8,52,Q3,Monsoon
+Jodhpur,September,9,69,Q3,Monsoon
+Jodhpur,October,10,57,Q4,Autumn
+Jodhpur,November,11,43,Q4,Autumn
+Jodhpur,December,12,39,Q4,Winter
+Kannur,January,1,146,Q1,Winter
+Kannur,February,2,129,Q1,Winter
+Kannur,March,3,145,Q1,Spring
+Kannur,April,4,156,Q2,Spring
+Kannur,May,5,143,Q2,Spring
+Kannur,June,6,117,Q2,Summer
+Kannur,July,7,98,Q3,Summer
+Kannur,August,8,119,Q3,Monsoon
+Kannur,September,9,110,Q3,Monsoon
+Kannur,October,10,127,Q4,Autumn
+Kannur,November,11,122,Q4,Autumn
+Kannur,December,12,119,Q4,Winter
+Kanpur,January,1,295,Q1,Winter
+Kanpur,February,2,198,Q1,Winter
+Kanpur,March,3,121,Q1,Spring
+Kanpur,April,4,101,Q2,Spring
+Kanpur,May,5,96,Q2,Spring
+Kanpur,June,6,95,Q2,Summer
+Kanpur,July,7,98,Q3,Summer
+Kanpur,August,8,65,Q3,Monsoon
+Kanpur,September,9,84,Q3,Monsoon
+Kanpur,October,10,95,Q4,Autumn
+Kanpur,November,11,165,Q4,Autumn
+Kanpur,December,12,210,Q4,Winter
+Kochi,January,1,244,Q1,Winter
+Kochi,February,2,202,Q1,Winter
+Kochi,March,3,201,Q1,Spring
+Kochi,April,4,179,Q2,Spring
+Kochi,May,5,228,Q2,Spring
+Kochi,June,6,224,Q2,Summer
+Kochi,July,7,185,Q3,Summer
+Kochi,August,8,217,Q3,Monsoon
+Kochi,September,9,235,Q3,Monsoon
+Kochi,October,10,212,Q4,Autumn
+Kochi,November,11,236,Q4,Autumn
+Kochi,December,12,222,Q4,Winter
+Kolkata,January,1,98,Q1,Winter
+Kolkata,February,2,94,Q1,Winter
+Kolkata,March,3,96,Q1,Spring
+Kolkata,April,4,97,Q2,Spring
+Kolkata,May,5,89,Q2,Spring
+Kolkata,June,6,88,Q2,Summer
+Kolkata,July,7,91,Q3,Summer
+Kolkata,August,8,98,Q3,Monsoon
+Kolkata,September,9,87,Q3,Monsoon
+Kolkata,October,10,99,Q4,Autumn
+Kolkata,November,11,96,Q4,Autumn
+Kolkata,December,12,96,Q4,Winter
+Kollam,January,1,177,Q1,Winter
+Kollam,February,2,181,Q1,Winter
+Kollam,March,3,210,Q1,Spring
+Kollam,April,4,180,Q2,Spring
+Kollam,May,5,173,Q2,Spring
+Kollam,June,6,184,Q2,Summer
+Kollam,July,7,170,Q3,Summer
+Kollam,August,8,193,Q3,Monsoon
+Kollam,September,9,172,Q3,Monsoon
+Kollam,October,10,144,Q4,Autumn
+Kollam,November,11,169,Q4,Autumn
+Kollam,December,12,143,Q4,Winter
+Kota,January,1,62,Q1,Winter
+Kota,February,2,44,Q1,Winter
+Kota,March,3,52,Q1,Spring
+Kota,April,4,38,Q2,Spring
+Kota,May,5,56,Q2,Spring
+Kota,June,6,56,Q2,Summer
+Kota,July,7,50,Q3,Summer
+Kota,August,8,64,Q3,Monsoon
+Kota,September,9,47,Q3,Monsoon
+Kota,October,10,50,Q4,Autumn
+Kota,November,11,37,Q4,Autumn
+Kota,December,12,36,Q4,Winter
+Kozhikode,January,1,191,Q1,Winter
+Kozhikode,February,2,181,Q1,Winter
+Kozhikode,March,3,190,Q1,Spring
+Kozhikode,April,4,156,Q2,Spring
+Kozhikode,May,5,168,Q2,Spring
+Kozhikode,June,6,158,Q2,Summer
+Kozhikode,July,7,137,Q3,Summer
+Kozhikode,August,8,156,Q3,Monsoon
+Kozhikode,September,9,160,Q3,Monsoon
+Kozhikode,October,10,170,Q4,Autumn
+Kozhikode,November,11,184,Q4,Autumn
+Kozhikode,December,12,175,Q4,Winter
+Lucknow,January,1,95,Q1,Winter
+Lucknow,February,2,93,Q1,Winter
+Lucknow,March,3,89,Q1,Spring
+Lucknow,April,4,88,Q2,Spring
+Lucknow,May,5,97,Q2,Spring
+Lucknow,June,6,95,Q2,Summer
+Lucknow,July,7,114,Q3,Summer
+Lucknow,August,8,120,Q3,Monsoon
+Lucknow,September,9,109,Q3,Monsoon
+Lucknow,October,10,120,Q4,Autumn
+Lucknow,November,11,85,Q4,Autumn
+Lucknow,December,12,95,Q4,Winter
+Ludhiana,January,1,42,Q1,Winter
+Ludhiana,February,2,35,Q1,Winter
+Ludhiana,March,3,43,Q1,Spring
+Ludhiana,April,4,39,Q2,Spring
+Ludhiana,May,5,49,Q2,Spring
+Ludhiana,June,6,51,Q2,Summer
+Ludhiana,July,7,41,Q3,Summer
+Ludhiana,August,8,36,Q3,Monsoon
+Ludhiana,September,9,37,Q3,Monsoon
+Ludhiana,October,10,51,Q4,Autumn
+Ludhiana,November,11,38,Q4,Autumn
+Ludhiana,December,12,42,Q4,Winter
+Madurai,January,1,61,Q1,Winter
+Madurai,February,2,68,Q1,Winter
+Madurai,March,3,71,Q1,Spring
+Madurai,April,4,64,Q2,Spring
+Madurai,May,5,48,Q2,Spring
+Madurai,June,6,54,Q2,Summer
+Madurai,July,7,62,Q3,Summer
+Madurai,August,8,79,Q3,Monsoon
+Madurai,September,9,60,Q3,Monsoon
+Madurai,October,10,62,Q4,Autumn
+Madurai,November,11,78,Q4,Autumn
+Madurai,December,12,61,Q4,Winter
+Malappuram,January,1,87,Q1,Winter
+Malappuram,February,2,84,Q1,Winter
+Malappuram,March,3,81,Q1,Spring
+Malappuram,April,4,73,Q2,Spring
+Malappuram,May,5,81,Q2,Spring
+Malappuram,June,6,73,Q2,Summer
+Malappuram,July,7,74,Q3,Summer
+Malappuram,August,8,78,Q3,Monsoon
+Malappuram,September,9,81,Q3,Monsoon
+Malappuram,October,10,73,Q4,Autumn
+Malappuram,November,11,92,Q4,Autumn
+Malappuram,December,12,78,Q4,Winter
+Meerut,January,1,38,Q1,Winter
+Meerut,February,2,24,Q1,Winter
+Meerut,March,3,46,Q1,Spring
+Meerut,April,4,41,Q2,Spring
+Meerut,May,5,43,Q2,Spring
+Meerut,June,6,28,Q2,Summer
+Meerut,July,7,27,Q3,Summer
+Meerut,August,8,32,Q3,Monsoon
+Meerut,September,9,46,Q3,Monsoon
+Meerut,October,10,71,Q4,Autumn
+Meerut,November,11,34,Q4,Autumn
+Meerut,December,12,42,Q4,Winter
+Mumbai,January,1,39,Q1,Winter
+Mumbai,February,2,46,Q1,Winter
+Mumbai,March,3,43,Q1,Spring
+Mumbai,April,4,31,Q2,Spring
+Mumbai,May,5,32,Q2,Spring
+Mumbai,June,6,37,Q2,Summer
+Mumbai,July,7,35,Q3,Summer
+Mumbai,August,8,25,Q3,Monsoon
+Mumbai,September,9,30,Q3,Monsoon
+Mumbai,October,10,32,Q4,Autumn
+Mumbai,November,11,35,Q4,Autumn
+Mumbai,December,12,29,Q4,Winter
+Nagpur,January,1,86,Q1,Winter
+Nagpur,February,2,94,Q1,Winter
+Nagpur,March,3,119,Q1,Spring
+Nagpur,April,4,88,Q2,Spring
+Nagpur,May,5,87,Q2,Spring
+Nagpur,June,6,108,Q2,Summer
+Nagpur,July,7,91,Q3,Summer
+Nagpur,August,8,124,Q3,Monsoon
+Nagpur,September,9,113,Q3,Monsoon
+Nagpur,October,10,104,Q4,Autumn
+Nagpur,November,11,96,Q4,Autumn
+Nagpur,December,12,103,Q4,Winter
+Nasik,January,1,18,Q1,Winter
+Nasik,February,2,21,Q1,Winter
+Nasik,March,3,20,Q1,Spring
+Nasik,April,4,16,Q2,Spring
+Nasik,May,5,14,Q2,Spring
+Nasik,June,6,19,Q2,Summer
+Nasik,July,7,23,Q3,Summer
+Nasik,August,8,21,Q3,Monsoon
+Nasik,September,9,31,Q3,Monsoon
+Nasik,October,10,31,Q4,Autumn
+Nasik,November,11,18,Q4,Autumn
+Nasik,December,12,29,Q4,Winter
+Patna,January,1,26,Q1,Winter
+Patna,February,2,29,Q1,Winter
+Patna,March,3,31,Q1,Spring
+Patna,April,4,22,Q2,Spring
+Patna,May,5,28,Q2,Spring
+Patna,June,6,31,Q2,Summer
+Patna,July,7,27,Q3,Summer
+Patna,August,8,20,Q3,Monsoon
+Patna,September,9,27,Q3,Monsoon
+Patna,October,10,23,Q4,Autumn
+Patna,November,11,27,Q4,Autumn
+Patna,December,12,31,Q4,Winter
+Prayagraj,January,1,102,Q1,Winter
+Prayagraj,February,2,114,Q1,Winter
+Prayagraj,March,3,118,Q1,Spring
+Prayagraj,April,4,95,Q2,Spring
+Prayagraj,May,5,110,Q2,Spring
+Prayagraj,June,6,127,Q2,Summer
+Prayagraj,July,7,100,Q3,Summer
+Prayagraj,August,8,107,Q3,Monsoon
+Prayagraj,September,9,85,Q3,Monsoon
+Prayagraj,October,10,100,Q4,Autumn
+Prayagraj,November,11,92,Q4,Autumn
+Prayagraj,December,12,147,Q4,Winter
+Pune,January,1,50,Q1,Winter
+Pune,February,2,42,Q1,Winter
+Pune,March,3,37,Q1,Spring
+Pune,April,4,36,Q2,Spring
+Pune,May,5,38,Q2,Spring
+Pune,June,6,48,Q2,Summer
+Pune,July,7,41,Q3,Summer
+Pune,August,8,36,Q3,Monsoon
+Pune,September,9,47,Q3,Monsoon
+Pune,October,10,46,Q4,Autumn
+Pune,November,11,37,Q4,Autumn
+Pune,December,12,44,Q4,Winter
+Raipur,January,1,121,Q1,Winter
+Raipur,February,2,99,Q1,Winter
+Raipur,March,3,98,Q1,Spring
+Raipur,April,4,82,Q2,Spring
+Raipur,May,5,92,Q2,Spring
+Raipur,June,6,88,Q2,Summer
+Raipur,July,7,83,Q3,Summer
+Raipur,August,8,74,Q3,Monsoon
+Raipur,September,9,110,Q3,Monsoon
+Raipur,October,10,58,Q4,Autumn
+Raipur,November,11,81,Q4,Autumn
+Raipur,December,12,91,Q4,Winter
+Rajkot,January,1,48,Q1,Winter
+Rajkot,February,2,49,Q1,Winter
+Rajkot,March,3,30,Q1,Spring
+Rajkot,April,4,42,Q2,Spring
+Rajkot,May,5,46,Q2,Spring
+Rajkot,June,6,44,Q2,Summer
+Rajkot,July,7,39,Q3,Summer
+Rajkot,August,8,36,Q3,Monsoon
+Rajkot,September,9,44,Q3,Monsoon
+Rajkot,October,10,47,Q4,Autumn
+Rajkot,November,11,33,Q4,Autumn
+Rajkot,December,12,36,Q4,Winter
+Ranchi,January,1,28,Q1,Winter
+Ranchi,February,2,25,Q1,Winter
+Ranchi,March,3,18,Q1,Spring
+Ranchi,April,4,18,Q2,Spring
+Ranchi,May,5,19,Q2,Spring
+Ranchi,June,6,22,Q2,Summer
+Ranchi,July,7,19,Q3,Summer
+Ranchi,August,8,25,Q3,Monsoon
+Ranchi,September,9,17,Q3,Monsoon
+Ranchi,October,10,22,Q4,Autumn
+Ranchi,November,11,23,Q4,Autumn
+Ranchi,December,12,27,Q4,Winter
+Srinagar,January,1,18,Q1,Winter
+Srinagar,February,2,35,Q1,Winter
+Srinagar,March,3,48,Q1,Spring
+Srinagar,April,4,40,Q2,Spring
+Srinagar,May,5,28,Q2,Spring
+Srinagar,June,6,57,Q2,Summer
+Srinagar,July,7,52,Q3,Summer
+Srinagar,August,8,57,Q3,Monsoon
+Srinagar,September,9,44,Q3,Monsoon
+Srinagar,October,10,40,Q4,Autumn
+Srinagar,November,11,35,Q4,Autumn
+Srinagar,December,12,22,Q4,Winter
+Surat,January,1,63,Q1,Winter
+Surat,February,2,63,Q1,Winter
+Surat,March,3,48,Q1,Spring
+Surat,April,4,55,Q2,Spring
+Surat,May,5,59,Q2,Spring
+Surat,June,6,54,Q2,Summer
+Surat,July,7,58,Q3,Summer
+Surat,August,8,38,Q3,Monsoon
+Surat,September,9,47,Q3,Monsoon
+Surat,October,10,59,Q4,Autumn
+Surat,November,11,49,Q4,Autumn
+Surat,December,12,57,Q4,Winter
+Thiruvananthapuram,January,1,192,Q1,Winter
+Thiruvananthapuram,February,2,168,Q1,Winter
+Thiruvananthapuram,March,3,175,Q1,Spring
+Thiruvananthapuram,April,4,157,Q2,Spring
+Thiruvananthapuram,May,5,167,Q2,Spring
+Thiruvananthapuram,June,6,189,Q2,Summer
+Thiruvananthapuram,July,7,163,Q3,Summer
+Thiruvananthapuram,August,8,181,Q3,Monsoon
+Thiruvananthapuram,September,9,167,Q3,Monsoon
+Thiruvananthapuram,October,10,231,Q4,Autumn
+Thiruvananthapuram,November,11,171,Q4,Autumn
+Thiruvananthapuram,December,12,145,Q4,Winter
+Thrissur,January,1,246,Q1,Winter
+Thrissur,February,2,198,Q1,Winter
+Thrissur,March,3,208,Q1,Spring
+Thrissur,April,4,196,Q2,Spring
+Thrissur,May,5,201,Q2,Spring
+Thrissur,June,6,190,Q2,Summer
+Thrissur,July,7,160,Q3,Summer
+Thrissur,August,8,198,Q3,Monsoon
+Thrissur,September,9,225,Q3,Monsoon
+Thrissur,October,10,203,Q4,Autumn
+Thrissur,November,11,185,Q4,Autumn
+Thrissur,December,12,234,Q4,Winter
+Tiruchirappalli,January,1,49,Q1,Winter
+Tiruchirappalli,February,2,42,Q1,Winter
+Tiruchirappalli,March,3,54,Q1,Spring
+Tiruchirappalli,April,4,55,Q2,Spring
+Tiruchirappalli,May,5,45,Q2,Spring
+Tiruchirappalli,June,6,59,Q2,Summer
+Tiruchirappalli,July,7,59,Q3,Summer
+Tiruchirappalli,August,8,64,Q3,Monsoon
+Tiruchirappalli,September,9,53,Q3,Monsoon
+Tiruchirappalli,October,10,44,Q4,Autumn
+Tiruchirappalli,November,11,38,Q4,Autumn
+Tiruchirappalli,December,12,57,Q4,Winter
+Vadodara,January,1,44,Q1,Winter
+Vadodara,February,2,46,Q1,Winter
+Vadodara,March,3,49,Q1,Spring
+Vadodara,April,4,47,Q2,Spring
+Vadodara,May,5,38,Q2,Spring
+Vadodara,June,6,27,Q2,Summer
+Vadodara,July,7,52,Q3,Summer
+Vadodara,August,8,59,Q3,Monsoon
+Vadodara,September,9,54,Q3,Monsoon
+Vadodara,October,10,52,Q4,Autumn
+Vadodara,November,11,40,Q4,Autumn
+Vadodara,December,12,58,Q4,Winter
+Varanasi,January,1,22,Q1,Winter
+Varanasi,February,2,17,Q1,Winter
+Varanasi,March,3,14,Q1,Spring
+Varanasi,April,4,11,Q2,Spring
+Varanasi,May,5,14,Q2,Spring
+Varanasi,June,6,12,Q2,Summer
+Varanasi,July,7,23,Q3,Summer
+Varanasi,August,8,21,Q3,Monsoon
+Varanasi,September,9,13,Q3,Monsoon
+Varanasi,October,10,15,Q4,Autumn
+Varanasi,November,11,19,Q4,Autumn
+Varanasi,December,12,15,Q4,Winter
+Vasai Virar,January,1,31,Q1,Winter
+Vasai Virar,February,2,26,Q1,Winter
+Vasai Virar,March,3,44,Q1,Spring
+Vasai Virar,April,4,24,Q2,Spring
+Vasai Virar,May,5,32,Q2,Spring
+Vasai Virar,June,6,35,Q2,Summer
+Vasai Virar,July,7,23,Q3,Summer
+Vasai Virar,August,8,25,Q3,Monsoon
+Vasai Virar,September,9,24,Q3,Monsoon
+Vasai Virar,October,10,35,Q4,Autumn
+Vasai Virar,November,11,36,Q4,Autumn
+Vasai Virar,December,12,30,Q4,Winter
+Vijayawada,January,1,139,Q1,Winter
+Vijayawada,February,2,129,Q1,Winter
+Vijayawada,March,3,133,Q1,Spring
+Vijayawada,April,4,107,Q2,Spring
+Vijayawada,May,5,156,Q2,Spring
+Vijayawada,June,6,124,Q2,Summer
+Vijayawada,July,7,125,Q3,Summer
+Vijayawada,August,8,128,Q3,Monsoon
+Vijayawada,September,9,115,Q3,Monsoon
+Vijayawada,October,10,123,Q4,Autumn
+Vijayawada,November,11,132,Q4,Autumn
+Vijayawada,December,12,111,Q4,Winter
+Vishakhapatnam,January,1,79,Q1,Winter
+Vishakhapatnam,February,2,92,Q1,Winter
+Vishakhapatnam,March,3,102,Q1,Spring
+Vishakhapatnam,April,4,103,Q2,Spring
+Vishakhapatnam,May,5,114,Q2,Spring
+Vishakhapatnam,June,6,109,Q2,Summer
+Vishakhapatnam,July,7,106,Q3,Summer
+Vishakhapatnam,August,8,116,Q3,Monsoon
+Vishakhapatnam,September,9,118,Q3,Monsoon
+Vishakhapatnam,October,10,124,Q4,Autumn
+Vishakhapatnam,November,11,138,Q4,Autumn
+Vishakhapatnam,December,12,92,Q4,Winter
+Total (Cities),January,1,6135,Q1,Winter
+Total (Cities),February,2,5698,Q1,Winter
+Total (Cities),March,3,5835,Q1,Spring
+Total (Cities),April,4,5457,Q2,Spring
+Total (Cities),May,5,5803,Q2,Spring
+Total (Cities),June,6,5759,Q2,Summer
+Total (Cities),July,7,5735,Q3,Summer
+Total (Cities),August,8,5893,Q3,Monsoon
+Total (Cities),September,9,5917,Q3,Monsoon
+Total (Cities),October,10,6043,Q4,Autumn
+Total (Cities),November,11,5748,Q4,Autumn
+Total (Cities),December,12,5887,Q4,Winter
