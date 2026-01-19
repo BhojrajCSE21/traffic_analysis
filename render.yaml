@@ -1,8 +1,9 @@
 services:
-  # Backend API Service
+  # Backend API Service - FREE TIER
   - type: web
     name: traffic-analytics-api
     runtime: python
+    plan: free
     buildCommand: pip install -r platform/requirements.txt
     startCommand: cd platform/backend && uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
@@ -10,10 +11,11 @@ services:
         value: "3.11"
     autoDeploy: true
 
-  # Frontend Static Site
+  # Frontend Static Site - FREE TIER
   - type: web
     name: traffic-analytics-ui
     runtime: static
+    plan: free
     buildCommand: echo "No build needed"
     staticPublishPath: platform/frontend
     autoDeploy: true
