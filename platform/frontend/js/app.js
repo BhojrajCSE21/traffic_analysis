@@ -7,7 +7,10 @@
 // Configuration
 // ============================================
 
-const API_BASE = window.location.origin + '/api';
+// Use Railway backend for production, local for development
+const API_BASE = window.location.hostname === 'localhost' 
+    ? '/api' 
+    : 'https://flowiqintelligenttrafficanalytics-production.up.railway.app/api';
 
 // State
 const state = {
