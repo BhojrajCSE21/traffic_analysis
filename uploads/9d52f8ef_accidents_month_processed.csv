@@ -1,0 +1,1117 @@
+State,Month,MonthNum,Accidents
+Andhra Pradesh,January,1,1707
+Andhra Pradesh,February,2,1612
+Andhra Pradesh,March,3,1689
+Andhra Pradesh,April,4,1627
+Andhra Pradesh,May,5,1951
+Andhra Pradesh,June,6,1785
+Andhra Pradesh,July,7,1636
+Andhra Pradesh,August,8,1691
+Andhra Pradesh,September,9,1598
+Andhra Pradesh,October,10,1598
+Andhra Pradesh,November,11,1573
+Andhra Pradesh,December,12,1482
+Arunachal Pradesh,January,1,20
+Arunachal Pradesh,February,2,15
+Arunachal Pradesh,March,3,17
+Arunachal Pradesh,April,4,11
+Arunachal Pradesh,May,5,17
+Arunachal Pradesh,June,6,18
+Arunachal Pradesh,July,7,20
+Arunachal Pradesh,August,8,10
+Arunachal Pradesh,September,9,21
+Arunachal Pradesh,October,10,20
+Arunachal Pradesh,November,11,29
+Arunachal Pradesh,December,12,35
+Assam,January,1,654
+Assam,February,2,580
+Assam,March,3,653
+Assam,April,4,616
+Assam,May,5,686
+Assam,June,6,555
+Assam,July,7,527
+Assam,August,8,533
+Assam,September,9,613
+Assam,October,10,582
+Assam,November,11,697
+Assam,December,12,725
+Bihar,January,1,804
+Bihar,February,2,903
+Bihar,March,3,959
+Bihar,April,4,860
+Bihar,May,5,1178
+Bihar,June,6,1157
+Bihar,July,7,895
+Bihar,August,8,764
+Bihar,September,9,772
+Bihar,October,10,825
+Bihar,November,11,855
+Bihar,December,12,1042
+Chhattisgarh,January,1,1397
+Chhattisgarh,February,2,1184
+Chhattisgarh,March,3,1093
+Chhattisgarh,April,4,1143
+Chhattisgarh,May,5,1242
+Chhattisgarh,June,6,1097
+Chhattisgarh,July,7,1050
+Chhattisgarh,August,8,1074
+Chhattisgarh,September,9,1008
+Chhattisgarh,October,10,1087
+Chhattisgarh,November,11,1006
+Chhattisgarh,December,12,1088
+Goa,January,1,273
+Goa,February,2,232
+Goa,March,3,246
+Goa,April,4,233
+Goa,May,5,261
+Goa,June,6,231
+Goa,July,7,209
+Goa,August,8,235
+Goa,September,9,224
+Goa,October,10,224
+Goa,November,11,201
+Goa,December,12,278
+Gujarat,January,1,1493
+Gujarat,February,2,1436
+Gujarat,March,3,1447
+Gujarat,April,4,1408
+Gujarat,May,5,1572
+Gujarat,June,6,1310
+Gujarat,July,7,1212
+Gujarat,August,8,1155
+Gujarat,September,9,1207
+Gujarat,October,10,1385
+Gujarat,November,11,1286
+Gujarat,December,12,1438
+Haryana,January,1,819
+Haryana,February,2,893
+Haryana,March,3,929
+Haryana,April,4,955
+Haryana,May,5,930
+Haryana,June,6,897
+Haryana,July,7,940
+Haryana,August,8,836
+Haryana,September,9,987
+Haryana,October,10,983
+Haryana,November,11,917
+Haryana,December,12,997
+Himachal Pradesh,January,1,172
+Himachal Pradesh,February,2,175
+Himachal Pradesh,March,3,226
+Himachal Pradesh,April,4,162
+Himachal Pradesh,May,5,211
+Himachal Pradesh,June,6,200
+Himachal Pradesh,July,7,185
+Himachal Pradesh,August,8,157
+Himachal Pradesh,September,9,200
+Himachal Pradesh,October,10,205
+Himachal Pradesh,November,11,165
+Himachal Pradesh,December,12,197
+Jharkhand,January,1,456
+Jharkhand,February,2,459
+Jharkhand,March,3,461
+Jharkhand,April,4,431
+Jharkhand,May,5,494
+Jharkhand,June,6,445
+Jharkhand,July,7,418
+Jharkhand,August,8,384
+Jharkhand,September,9,393
+Jharkhand,October,10,401
+Jharkhand,November,11,495
+Jharkhand,December,12,479
+Karnataka,January,1,3820
+Karnataka,February,2,3555
+Karnataka,March,3,3548
+Karnataka,April,4,3382
+Karnataka,May,5,3793
+Karnataka,June,6,3630
+Karnataka,July,7,3378
+Karnataka,August,8,3520
+Karnataka,September,9,3575
+Karnataka,October,10,3644
+Karnataka,November,11,3604
+Karnataka,December,12,3990
+Kerala,January,1,4309
+Kerala,February,2,3833
+Kerala,March,3,3929
+Kerala,April,4,3852
+Kerala,May,5,3904
+Kerala,June,6,3625
+Kerala,July,7,3493
+Kerala,August,8,3832
+Kerala,September,9,3851
+Kerala,October,10,3673
+Kerala,November,11,3801
+Kerala,December,12,3879
+Madhya Pradesh,January,1,5194
+Madhya Pradesh,February,2,4530
+Madhya Pradesh,March,3,4842
+Madhya Pradesh,April,4,4504
+Madhya Pradesh,May,5,5283
+Madhya Pradesh,June,6,4758
+Madhya Pradesh,July,7,4277
+Madhya Pradesh,August,8,4042
+Madhya Pradesh,September,9,4199
+Madhya Pradesh,October,10,4534
+Madhya Pradesh,November,11,4451
+Madhya Pradesh,December,12,4149
+Maharashtra,January,1,2734
+Maharashtra,February,2,2541
+Maharashtra,March,3,2568
+Maharashtra,April,4,2550
+Maharashtra,May,5,2904
+Maharashtra,June,6,2660
+Maharashtra,July,7,2426
+Maharashtra,August,8,2530
+Maharashtra,September,9,2328
+Maharashtra,October,10,2547
+Maharashtra,November,11,2609
+Maharashtra,December,12,2950
+Manipur,January,1,50
+Manipur,February,2,52
+Manipur,March,3,49
+Manipur,April,4,44
+Manipur,May,5,18
+Manipur,June,6,21
+Manipur,July,7,27
+Manipur,August,8,13
+Manipur,September,9,26
+Manipur,October,10,30
+Manipur,November,11,30
+Manipur,December,12,38
+Meghalaya,January,1,16
+Meghalaya,February,2,21
+Meghalaya,March,3,33
+Meghalaya,April,4,17
+Meghalaya,May,5,24
+Meghalaya,June,6,16
+Meghalaya,July,7,16
+Meghalaya,August,8,21
+Meghalaya,September,9,17
+Meghalaya,October,10,12
+Meghalaya,November,11,18
+Meghalaya,December,12,21
+Mizoram,January,1,2
+Mizoram,February,2,2
+Mizoram,March,3,7
+Mizoram,April,4,3
+Mizoram,May,5,4
+Mizoram,June,6,7
+Mizoram,July,7,3
+Mizoram,August,8,1
+Mizoram,September,9,3
+Mizoram,October,10,2
+Mizoram,November,11,5
+Mizoram,December,12,8
+Nagaland,January,1,2
+Nagaland,February,2,2
+Nagaland,March,3,3
+Nagaland,April,4,0
+Nagaland,May,5,6
+Nagaland,June,6,3
+Nagaland,July,7,4
+Nagaland,August,8,5
+Nagaland,September,9,4
+Nagaland,October,10,3
+Nagaland,November,11,0
+Nagaland,December,12,3
+Odisha,January,1,1199
+Odisha,February,2,1076
+Odisha,March,3,1052
+Odisha,April,4,919
+Odisha,May,5,1037
+Odisha,June,6,928
+Odisha,July,7,906
+Odisha,August,8,870
+Odisha,September,9,889
+Odisha,October,10,967
+Odisha,November,11,1004
+Odisha,December,12,1142
+Punjab,January,1,463
+Punjab,February,2,499
+Punjab,March,3,492
+Punjab,April,4,526
+Punjab,May,5,568
+Punjab,June,6,547
+Punjab,July,7,454
+Punjab,August,8,479
+Punjab,September,9,509
+Punjab,October,10,579
+Punjab,November,11,618
+Punjab,December,12,542
+Rajasthan,January,1,2208
+Rajasthan,February,2,1985
+Rajasthan,March,3,2079
+Rajasthan,April,4,2047
+Rajasthan,May,5,2241
+Rajasthan,June,6,2086
+Rajasthan,July,7,2074
+Rajasthan,August,8,1953
+Rajasthan,September,9,2179
+Rajasthan,October,10,2147
+Rajasthan,November,11,2020
+Rajasthan,December,12,1842
+Sikkim,January,1,17
+Sikkim,February,2,12
+Sikkim,March,3,11
+Sikkim,April,4,18
+Sikkim,May,5,13
+Sikkim,June,6,14
+Sikkim,July,7,14
+Sikkim,August,8,17
+Sikkim,September,9,13
+Sikkim,October,10,13
+Sikkim,November,11,15
+Sikkim,December,12,17
+Tamil Nadu,January,1,6024
+Tamil Nadu,February,2,5301
+Tamil Nadu,March,3,5468
+Tamil Nadu,April,4,5661
+Tamil Nadu,May,5,5811
+Tamil Nadu,June,6,5620
+Tamil Nadu,July,7,5709
+Tamil Nadu,August,8,6070
+Tamil Nadu,September,9,5484
+Tamil Nadu,October,10,5644
+Tamil Nadu,November,11,5369
+Tamil Nadu,December,12,5052
+Telangana,January,1,1835
+Telangana,February,2,1770
+Telangana,March,3,1854
+Telangana,April,4,1866
+Telangana,May,5,2186
+Telangana,June,6,2082
+Telangana,July,7,1725
+Telangana,August,8,1832
+Telangana,September,9,1766
+Telangana,October,10,1882
+Telangana,November,11,1904
+Telangana,December,12,2201
+Tripura,January,1,42
+Tripura,February,2,36
+Tripura,March,3,48
+Tripura,April,4,48
+Tripura,May,5,47
+Tripura,June,6,53
+Tripura,July,7,50
+Tripura,August,8,53
+Tripura,September,9,40
+Tripura,October,10,42
+Tripura,November,11,55
+Tripura,December,12,63
+Uttar Pradesh,January,1,3777
+Uttar Pradesh,February,2,3290
+Uttar Pradesh,March,3,3129
+Uttar Pradesh,April,4,2740
+Uttar Pradesh,May,5,3183
+Uttar Pradesh,June,6,3132
+Uttar Pradesh,July,7,2867
+Uttar Pradesh,August,8,2945
+Uttar Pradesh,September,9,2672
+Uttar Pradesh,October,10,2914
+Uttar Pradesh,November,11,3332
+Uttar Pradesh,December,12,3783
+Uttarakhand,January,1,126
+Uttarakhand,February,2,118
+Uttarakhand,March,3,118
+Uttarakhand,April,4,150
+Uttarakhand,May,5,180
+Uttarakhand,June,6,148
+Uttarakhand,July,7,140
+Uttarakhand,August,8,125
+Uttarakhand,September,9,119
+Uttarakhand,October,10,149
+Uttarakhand,November,11,147
+Uttarakhand,December,12,171
+West Bengal,January,1,909
+West Bengal,February,2,811
+West Bengal,March,3,890
+West Bengal,April,4,783
+West Bengal,May,5,906
+West Bengal,June,6,864
+West Bengal,July,7,794
+West Bengal,August,8,880
+West Bengal,September,9,852
+West Bengal,October,10,910
+West Bengal,November,11,889
+West Bengal,December,12,912
+Total (States),January,1,40522
+Total (States),February,2,36923
+Total (States),March,3,37840
+Total (States),April,4,36556
+Total (States),May,5,40650
+Total (States),June,6,37889
+Total (States),July,7,35449
+Total (States),August,8,36027
+Total (States),September,9,35549
+Total (States),October,10,37002
+Total (States),November,11,37095
+Total (States),December,12,38524
+Andaman and Nicobar Islands,January,1,2
+Andaman and Nicobar Islands,February,2,4
+Andaman and Nicobar Islands,March,3,4
+Andaman and Nicobar Islands,April,4,3
+Andaman and Nicobar Islands,May,5,1
+Andaman and Nicobar Islands,June,6,1
+Andaman and Nicobar Islands,July,7,3
+Andaman and Nicobar Islands,August,8,2
+Andaman and Nicobar Islands,September,9,1
+Andaman and Nicobar Islands,October,10,0
+Andaman and Nicobar Islands,November,11,2
+Andaman and Nicobar Islands,December,12,2
+Chandigarh,January,1,15
+Chandigarh,February,2,11
+Chandigarh,March,3,13
+Chandigarh,April,4,15
+Chandigarh,May,5,19
+Chandigarh,June,6,10
+Chandigarh,July,7,17
+Chandigarh,August,8,23
+Chandigarh,September,9,18
+Chandigarh,October,10,10
+Chandigarh,November,11,18
+Chandigarh,December,12,13
+Dadra and Nagar Haveli and Daman and Diu,January,1,16
+Dadra and Nagar Haveli and Daman and Diu,February,2,20
+Dadra and Nagar Haveli and Daman and Diu,March,3,17
+Dadra and Nagar Haveli and Daman and Diu,April,4,15
+Dadra and Nagar Haveli and Daman and Diu,May,5,19
+Dadra and Nagar Haveli and Daman and Diu,June,6,15
+Dadra and Nagar Haveli and Daman and Diu,July,7,8
+Dadra and Nagar Haveli and Daman and Diu,August,8,19
+Dadra and Nagar Haveli and Daman and Diu,September,9,17
+Dadra and Nagar Haveli and Daman and Diu,October,10,13
+Dadra and Nagar Haveli and Daman and Diu,November,11,12
+Dadra and Nagar Haveli and Daman and Diu,December,12,12
+Delhi,January,1,426
+Delhi,February,2,433
+Delhi,March,3,425
+Delhi,April,4,460
+Delhi,May,5,488
+Delhi,June,6,455
+Delhi,July,7,463
+Delhi,August,8,523
+Delhi,September,9,496
+Delhi,October,10,548
+Delhi,November,11,476
+Delhi,December,12,522
+Jammu and Kashmir,January,1,393
+Jammu and Kashmir,February,2,443
+Jammu and Kashmir,March,3,479
+Jammu and Kashmir,April,4,499
+Jammu and Kashmir,May,5,563
+Jammu and Kashmir,June,6,595
+Jammu and Kashmir,July,7,588
+Jammu and Kashmir,August,8,610
+Jammu and Kashmir,September,9,551
+Jammu and Kashmir,October,10,598
+Jammu and Kashmir,November,11,580
+Jammu and Kashmir,December,12,401
+Ladakh,January,1,8
+Ladakh,February,2,7
+Ladakh,March,3,11
+Ladakh,April,4,22
+Ladakh,May,5,30
+Ladakh,June,6,43
+Ladakh,July,7,37
+Ladakh,August,8,30
+Ladakh,September,9,33
+Ladakh,October,10,28
+Ladakh,November,11,28
+Ladakh,December,12,12
+Lakshadweep,January,1,0
+Lakshadweep,February,2,0
+Lakshadweep,March,3,0
+Lakshadweep,April,4,0
+Lakshadweep,May,5,0
+Lakshadweep,June,6,0
+Lakshadweep,July,7,0
+Lakshadweep,August,8,0
+Lakshadweep,September,9,0
+Lakshadweep,October,10,0
+Lakshadweep,November,11,1
+Lakshadweep,December,12,0
+Puducherry,January,1,117
+Puducherry,February,2,103
+Puducherry,March,3,123
+Puducherry,April,4,106
+Puducherry,May,5,121
+Puducherry,June,6,113
+Puducherry,July,7,111
+Puducherry,August,8,105
+Puducherry,September,9,114
+Puducherry,October,10,98
+Puducherry,November,11,92
+Puducherry,December,12,105
+Total (UTs),January,1,977
+Total (UTs),February,2,1021
+Total (UTs),March,3,1072
+Total (UTs),April,4,1120
+Total (UTs),May,5,1241
+Total (UTs),June,6,1232
+Total (UTs),July,7,1227
+Total (UTs),August,8,1312
+Total (UTs),September,9,1230
+Total (UTs),October,10,1295
+Total (UTs),November,11,1209
+Total (UTs),December,12,1067
+Total (All India),January,1,41499
+Total (All India),February,2,37944
+Total (All India),March,3,38912
+Total (All India),April,4,37676
+Total (All India),May,5,41891
+Total (All India),June,6,39121
+Total (All India),July,7,36676
+Total (All India),August,8,37339
+Total (All India),September,9,36779
+Total (All India),October,10,38297
+Total (All India),November,11,38304
+Total (All India),December,12,39591
+Agra,January,1,39
+Agra,February,2,47
+Agra,March,3,58
+Agra,April,4,35
+Agra,May,5,45
+Agra,June,6,60
+Agra,July,7,45
+Agra,August,8,32
+Agra,September,9,37
+Agra,October,10,45
+Agra,November,11,47
+Agra,December,12,63
+Ahmedabad,January,1,177
+Ahmedabad,February,2,120
+Ahmedabad,March,3,158
+Ahmedabad,April,4,154
+Ahmedabad,May,5,141
+Ahmedabad,June,6,134
+Ahmedabad,July,7,139
+Ahmedabad,August,8,139
+Ahmedabad,September,9,154
+Ahmedabad,October,10,151
+Ahmedabad,November,11,129
+Ahmedabad,December,12,171
+Amritsar,January,1,9
+Amritsar,February,2,8
+Amritsar,March,3,15
+Amritsar,April,4,9
+Amritsar,May,5,12
+Amritsar,June,6,21
+Amritsar,July,7,14
+Amritsar,August,8,12
+Amritsar,September,9,16
+Amritsar,October,10,15
+Amritsar,November,11,11
+Amritsar,December,12,5
+Asansol,January,1,39
+Asansol,February,2,29
+Asansol,March,3,39
+Asansol,April,4,27
+Asansol,May,5,39
+Asansol,June,6,37
+Asansol,July,7,24
+Asansol,August,8,36
+Asansol,September,9,36
+Asansol,October,10,32
+Asansol,November,11,35
+Asansol,December,12,28
+Aurangabad,January,1,36
+Aurangabad,February,2,44
+Aurangabad,March,3,42
+Aurangabad,April,4,45
+Aurangabad,May,5,75
+Aurangabad,June,6,40
+Aurangabad,July,7,55
+Aurangabad,August,8,55
+Aurangabad,September,9,49
+Aurangabad,October,10,43
+Aurangabad,November,11,38
+Aurangabad,December,12,38
+Bengaluru,January,1,431
+Bengaluru,February,2,369
+Bengaluru,March,3,396
+Bengaluru,April,4,357
+Bengaluru,May,5,375
+Bengaluru,June,6,426
+Bengaluru,July,7,436
+Bengaluru,August,8,457
+Bengaluru,September,9,458
+Bengaluru,October,10,391
+Bengaluru,November,11,400
+Bengaluru,December,12,484
+Bhopal,January,1,254
+Bhopal,February,2,265
+Bhopal,March,3,227
+Bhopal,April,4,213
+Bhopal,May,5,281
+Bhopal,June,6,273
+Bhopal,July,7,238
+Bhopal,August,8,242
+Bhopal,September,9,246
+Bhopal,October,10,259
+Bhopal,November,11,218
+Bhopal,December,12,190
+Chandigarh (City),January,1,15
+Chandigarh (City),February,2,11
+Chandigarh (City),March,3,13
+Chandigarh (City),April,4,15
+Chandigarh (City),May,5,19
+Chandigarh (City),June,6,10
+Chandigarh (City),July,7,17
+Chandigarh (City),August,8,23
+Chandigarh (City),September,9,18
+Chandigarh (City),October,10,10
+Chandigarh (City),November,11,18
+Chandigarh (City),December,12,13
+Chennai,January,1,302
+Chennai,February,2,313
+Chennai,March,3,314
+Chennai,April,4,300
+Chennai,May,5,315
+Chennai,June,6,287
+Chennai,July,7,363
+Chennai,August,8,333
+Chennai,September,9,322
+Chennai,October,10,308
+Chennai,November,11,254
+Chennai,December,12,242
+Coimbatore,January,1,90
+Coimbatore,February,2,91
+Coimbatore,March,3,95
+Coimbatore,April,4,124
+Coimbatore,May,5,96
+Coimbatore,June,6,83
+Coimbatore,July,7,114
+Coimbatore,August,8,95
+Coimbatore,September,9,100
+Coimbatore,October,10,105
+Coimbatore,November,11,88
+Coimbatore,December,12,80
+Delhi (City),January,1,426
+Delhi (City),February,2,433
+Delhi (City),March,3,425
+Delhi (City),April,4,460
+Delhi (City),May,5,488
+Delhi (City),June,6,455
+Delhi (City),July,7,463
+Delhi (City),August,8,523
+Delhi (City),September,9,496
+Delhi (City),October,10,548
+Delhi (City),November,11,476
+Delhi (City),December,12,522
+Dhanbad,January,1,17
+Dhanbad,February,2,16
+Dhanbad,March,3,18
+Dhanbad,April,4,14
+Dhanbad,May,5,16
+Dhanbad,June,6,22
+Dhanbad,July,7,17
+Dhanbad,August,8,15
+Dhanbad,September,9,11
+Dhanbad,October,10,12
+Dhanbad,November,11,13
+Dhanbad,December,12,24
+Durg Bhilainagar,January,1,96
+Durg Bhilainagar,February,2,55
+Durg Bhilainagar,March,3,56
+Durg Bhilainagar,April,4,52
+Durg Bhilainagar,May,5,65
+Durg Bhilainagar,June,6,62
+Durg Bhilainagar,July,7,72
+Durg Bhilainagar,August,8,62
+Durg Bhilainagar,September,9,72
+Durg Bhilainagar,October,10,76
+Durg Bhilainagar,November,11,64
+Durg Bhilainagar,December,12,55
+Faridabad,January,1,53
+Faridabad,February,2,61
+Faridabad,March,3,57
+Faridabad,April,4,47
+Faridabad,May,5,59
+Faridabad,June,6,55
+Faridabad,July,7,51
+Faridabad,August,8,38
+Faridabad,September,9,59
+Faridabad,October,10,53
+Faridabad,November,11,44
+Faridabad,December,12,59
+Ghaziabad,January,1,89
+Ghaziabad,February,2,79
+Ghaziabad,March,3,81
+Ghaziabad,April,4,65
+Ghaziabad,May,5,71
+Ghaziabad,June,6,69
+Ghaziabad,July,7,71
+Ghaziabad,August,8,62
+Ghaziabad,September,9,69
+Ghaziabad,October,10,62
+Ghaziabad,November,11,91
+Ghaziabad,December,12,84
+Gwalior,January,1,99
+Gwalior,February,2,85
+Gwalior,March,3,119
+Gwalior,April,4,116
+Gwalior,May,5,92
+Gwalior,June,6,91
+Gwalior,July,7,101
+Gwalior,August,8,78
+Gwalior,September,9,116
+Gwalior,October,10,116
+Gwalior,November,11,108
+Gwalior,December,12,109
+Hyderabad,January,1,224
+Hyderabad,February,2,208
+Hyderabad,March,3,190
+Hyderabad,April,4,214
+Hyderabad,May,5,211
+Hyderabad,June,6,243
+Hyderabad,July,7,264
+Hyderabad,August,8,246
+Hyderabad,September,9,259
+Hyderabad,October,10,277
+Hyderabad,November,11,309
+Hyderabad,December,12,298
+Indore,January,1,289
+Indore,February,2,270
+Indore,March,3,312
+Indore,April,4,279
+Indore,May,5,313
+Indore,June,6,303
+Indore,July,7,309
+Indore,August,8,311
+Indore,September,9,262
+Indore,October,10,341
+Indore,November,11,288
+Indore,December,12,289
+Jabalpur,January,1,191
+Jabalpur,February,2,237
+Jabalpur,March,3,197
+Jabalpur,April,4,172
+Jabalpur,May,5,173
+Jabalpur,June,6,186
+Jabalpur,July,7,191
+Jabalpur,August,8,198
+Jabalpur,September,9,197
+Jabalpur,October,10,194
+Jabalpur,November,11,196
+Jabalpur,December,12,187
+Jaipur,January,1,248
+Jaipur,February,2,211
+Jaipur,March,3,219
+Jaipur,April,4,253
+Jaipur,May,5,250
+Jaipur,June,6,237
+Jaipur,July,7,239
+Jaipur,August,8,260
+Jaipur,September,9,267
+Jaipur,October,10,272
+Jaipur,November,11,243
+Jaipur,December,12,215
+Jamshedpur,January,1,12
+Jamshedpur,February,2,17
+Jamshedpur,March,3,12
+Jamshedpur,April,4,10
+Jamshedpur,May,5,17
+Jamshedpur,June,6,10
+Jamshedpur,July,7,11
+Jamshedpur,August,8,12
+Jamshedpur,September,9,12
+Jamshedpur,October,10,13
+Jamshedpur,November,11,14
+Jamshedpur,December,12,15
+Jodhpur,January,1,62
+Jodhpur,February,2,61
+Jodhpur,March,3,58
+Jodhpur,April,4,59
+Jodhpur,May,5,59
+Jodhpur,June,6,52
+Jodhpur,July,7,75
+Jodhpur,August,8,52
+Jodhpur,September,9,69
+Jodhpur,October,10,57
+Jodhpur,November,11,43
+Jodhpur,December,12,39
+Kannur,January,1,146
+Kannur,February,2,129
+Kannur,March,3,145
+Kannur,April,4,156
+Kannur,May,5,143
+Kannur,June,6,117
+Kannur,July,7,98
+Kannur,August,8,119
+Kannur,September,9,110
+Kannur,October,10,127
+Kannur,November,11,122
+Kannur,December,12,119
+Kanpur,January,1,295
+Kanpur,February,2,198
+Kanpur,March,3,121
+Kanpur,April,4,101
+Kanpur,May,5,96
+Kanpur,June,6,95
+Kanpur,July,7,98
+Kanpur,August,8,65
+Kanpur,September,9,84
+Kanpur,October,10,95
+Kanpur,November,11,165
+Kanpur,December,12,210
+Kochi,January,1,244
+Kochi,February,2,202
+Kochi,March,3,201
+Kochi,April,4,179
+Kochi,May,5,228
+Kochi,June,6,224
+Kochi,July,7,185
+Kochi,August,8,217
+Kochi,September,9,235
+Kochi,October,10,212
+Kochi,November,11,236
+Kochi,December,12,222
+Kolkata,January,1,98
+Kolkata,February,2,94
+Kolkata,March,3,96
+Kolkata,April,4,97
+Kolkata,May,5,89
+Kolkata,June,6,88
+Kolkata,July,7,91
+Kolkata,August,8,98
+Kolkata,September,9,87
+Kolkata,October,10,99
+Kolkata,November,11,96
+Kolkata,December,12,96
+Kollam,January,1,177
+Kollam,February,2,181
+Kollam,March,3,210
+Kollam,April,4,180
+Kollam,May,5,173
+Kollam,June,6,184
+Kollam,July,7,170
+Kollam,August,8,193
+Kollam,September,9,172
+Kollam,October,10,144
+Kollam,November,11,169
+Kollam,December,12,143
+Kota,January,1,62
+Kota,February,2,44
+Kota,March,3,52
+Kota,April,4,38
+Kota,May,5,56
+Kota,June,6,56
+Kota,July,7,50
+Kota,August,8,64
+Kota,September,9,47
+Kota,October,10,50
+Kota,November,11,37
+Kota,December,12,36
+Kozhikode,January,1,191
+Kozhikode,February,2,181
+Kozhikode,March,3,190
+Kozhikode,April,4,156
+Kozhikode,May,5,168
+Kozhikode,June,6,158
+Kozhikode,July,7,137
+Kozhikode,August,8,156
+Kozhikode,September,9,160
+Kozhikode,October,10,170
+Kozhikode,November,11,184
+Kozhikode,December,12,175
+Lucknow,January,1,95
+Lucknow,February,2,93
+Lucknow,March,3,89
+Lucknow,April,4,88
+Lucknow,May,5,97
+Lucknow,June,6,95
+Lucknow,July,7,114
+Lucknow,August,8,120
+Lucknow,September,9,109
+Lucknow,October,10,120
+Lucknow,November,11,85
+Lucknow,December,12,95
+Ludhiana,January,1,42
+Ludhiana,February,2,35
+Ludhiana,March,3,43
+Ludhiana,April,4,39
+Ludhiana,May,5,49
+Ludhiana,June,6,51
+Ludhiana,July,7,41
+Ludhiana,August,8,36
+Ludhiana,September,9,37
+Ludhiana,October,10,51
+Ludhiana,November,11,38
+Ludhiana,December,12,42
+Madurai,January,1,61
+Madurai,February,2,68
+Madurai,March,3,71
+Madurai,April,4,64
+Madurai,May,5,48
+Madurai,June,6,54
+Madurai,July,7,62
+Madurai,August,8,79
+Madurai,September,9,60
+Madurai,October,10,62
+Madurai,November,11,78
+Madurai,December,12,61
+Malappuram,January,1,87
+Malappuram,February,2,84
+Malappuram,March,3,81
+Malappuram,April,4,73
+Malappuram,May,5,81
+Malappuram,June,6,73
+Malappuram,July,7,74
+Malappuram,August,8,78
+Malappuram,September,9,81
+Malappuram,October,10,73
+Malappuram,November,11,92
+Malappuram,December,12,78
+Meerut,January,1,38
+Meerut,February,2,24
+Meerut,March,3,46
+Meerut,April,4,41
+Meerut,May,5,43
+Meerut,June,6,28
+Meerut,July,7,27
+Meerut,August,8,32
+Meerut,September,9,46
+Meerut,October,10,71
+Meerut,November,11,34
+Meerut,December,12,42
+Mumbai,January,1,39
+Mumbai,February,2,46
+Mumbai,March,3,43
+Mumbai,April,4,31
+Mumbai,May,5,32
+Mumbai,June,6,37
+Mumbai,July,7,35
+Mumbai,August,8,25
+Mumbai,September,9,30
+Mumbai,October,10,32
+Mumbai,November,11,35
+Mumbai,December,12,29
+Nagpur,January,1,86
+Nagpur,February,2,94
+Nagpur,March,3,119
+Nagpur,April,4,88
+Nagpur,May,5,87
+Nagpur,June,6,108
+Nagpur,July,7,91
+Nagpur,August,8,124
+Nagpur,September,9,113
+Nagpur,October,10,104
+Nagpur,November,11,96
+Nagpur,December,12,103
+Nasik,January,1,18
+Nasik,February,2,21
+Nasik,March,3,20
+Nasik,April,4,16
+Nasik,May,5,14
+Nasik,June,6,19
+Nasik,July,7,23
+Nasik,August,8,21
+Nasik,September,9,31
+Nasik,October,10,31
+Nasik,November,11,18
+Nasik,December,12,29
+Patna,January,1,26
+Patna,February,2,29
+Patna,March,3,31
+Patna,April,4,22
+Patna,May,5,28
+Patna,June,6,31
+Patna,July,7,27
+Patna,August,8,20
+Patna,September,9,27
+Patna,October,10,23
+Patna,November,11,27
+Patna,December,12,31
+Prayagraj,January,1,102
+Prayagraj,February,2,114
+Prayagraj,March,3,118
+Prayagraj,April,4,95
+Prayagraj,May,5,110
+Prayagraj,June,6,127
+Prayagraj,July,7,100
+Prayagraj,August,8,107
+Prayagraj,September,9,85
+Prayagraj,October,10,100
+Prayagraj,November,11,92
+Prayagraj,December,12,147
+Pune,January,1,50
+Pune,February,2,42
+Pune,March,3,37
+Pune,April,4,36
+Pune,May,5,38
+Pune,June,6,48
+Pune,July,7,41
+Pune,August,8,36
+Pune,September,9,47
+Pune,October,10,46
+Pune,November,11,37
+Pune,December,12,44
+Raipur,January,1,121
+Raipur,February,2,99
+Raipur,March,3,98
+Raipur,April,4,82
+Raipur,May,5,92
+Raipur,June,6,88
+Raipur,July,7,83
+Raipur,August,8,74
+Raipur,September,9,110
+Raipur,October,10,58
+Raipur,November,11,81
+Raipur,December,12,91
+Rajkot,January,1,48
+Rajkot,February,2,49
+Rajkot,March,3,30
+Rajkot,April,4,42
+Rajkot,May,5,46
+Rajkot,June,6,44
+Rajkot,July,7,39
+Rajkot,August,8,36
+Rajkot,September,9,44
+Rajkot,October,10,47
+Rajkot,November,11,33
+Rajkot,December,12,36
+Ranchi,January,1,28
+Ranchi,February,2,25
+Ranchi,March,3,18
+Ranchi,April,4,18
+Ranchi,May,5,19
+Ranchi,June,6,22
+Ranchi,July,7,19
+Ranchi,August,8,25
+Ranchi,September,9,17
+Ranchi,October,10,22
+Ranchi,November,11,23
+Ranchi,December,12,27
+Srinagar,January,1,18
+Srinagar,February,2,35
+Srinagar,March,3,48
+Srinagar,April,4,40
+Srinagar,May,5,28
+Srinagar,June,6,57
+Srinagar,July,7,52
+Srinagar,August,8,57
+Srinagar,September,9,44
+Srinagar,October,10,40
+Srinagar,November,11,35
+Srinagar,December,12,22
+Surat,January,1,63
+Surat,February,2,63
+Surat,March,3,48
+Surat,April,4,55
+Surat,May,5,59
+Surat,June,6,54
+Surat,July,7,58
+Surat,August,8,38
+Surat,September,9,47
+Surat,October,10,59
+Surat,November,11,49
+Surat,December,12,57
+Thiruvananthapuram,January,1,192
+Thiruvananthapuram,February,2,168
+Thiruvananthapuram,March,3,175
+Thiruvananthapuram,April,4,157
+Thiruvananthapuram,May,5,167
+Thiruvananthapuram,June,6,189
+Thiruvananthapuram,July,7,163
+Thiruvananthapuram,August,8,181
+Thiruvananthapuram,September,9,167
+Thiruvananthapuram,October,10,231
+Thiruvananthapuram,November,11,171
+Thiruvananthapuram,December,12,145
+Thrissur,January,1,246
+Thrissur,February,2,198
+Thrissur,March,3,208
+Thrissur,April,4,196
+Thrissur,May,5,201
+Thrissur,June,6,190
+Thrissur,July,7,160
+Thrissur,August,8,198
+Thrissur,September,9,225
+Thrissur,October,10,203
+Thrissur,November,11,185
+Thrissur,December,12,234
+Tiruchirappalli,January,1,49
+Tiruchirappalli,February,2,42
+Tiruchirappalli,March,3,54
+Tiruchirappalli,April,4,55
+Tiruchirappalli,May,5,45
+Tiruchirappalli,June,6,59
+Tiruchirappalli,July,7,59
+Tiruchirappalli,August,8,64
+Tiruchirappalli,September,9,53
+Tiruchirappalli,October,10,44
+Tiruchirappalli,November,11,38
+Tiruchirappalli,December,12,57
+Vadodara,January,1,44
+Vadodara,February,2,46
+Vadodara,March,3,49
+Vadodara,April,4,47
+Vadodara,May,5,38
+Vadodara,June,6,27
+Vadodara,July,7,52
+Vadodara,August,8,59
+Vadodara,September,9,54
+Vadodara,October,10,52
+Vadodara,November,11,40
+Vadodara,December,12,58
+Varanasi,January,1,22
+Varanasi,February,2,17
+Varanasi,March,3,14
+Varanasi,April,4,11
+Varanasi,May,5,14
+Varanasi,June,6,12
+Varanasi,July,7,23
+Varanasi,August,8,21
+Varanasi,September,9,13
+Varanasi,October,10,15
+Varanasi,November,11,19
+Varanasi,December,12,15
+Vasai Virar,January,1,31
+Vasai Virar,February,2,26
+Vasai Virar,March,3,44
+Vasai Virar,April,4,24
+Vasai Virar,May,5,32
+Vasai Virar,June,6,35
+Vasai Virar,July,7,23
+Vasai Virar,August,8,25
+Vasai Virar,September,9,24
+Vasai Virar,October,10,35
+Vasai Virar,November,11,36
+Vasai Virar,December,12,30
+Vijayawada,January,1,139
+Vijayawada,February,2,129
+Vijayawada,March,3,133
+Vijayawada,April,4,107
+Vijayawada,May,5,156
+Vijayawada,June,6,124
+Vijayawada,July,7,125
+Vijayawada,August,8,128
+Vijayawada,September,9,115
+Vijayawada,October,10,123
+Vijayawada,November,11,132
+Vijayawada,December,12,111
+Vishakhapatnam,January,1,79
+Vishakhapatnam,February,2,92
+Vishakhapatnam,March,3,102
+Vishakhapatnam,April,4,103
+Vishakhapatnam,May,5,114
+Vishakhapatnam,June,6,109
+Vishakhapatnam,July,7,106
+Vishakhapatnam,August,8,116
+Vishakhapatnam,September,9,118
+Vishakhapatnam,October,10,124
+Vishakhapatnam,November,11,138
+Vishakhapatnam,December,12,92
+Total (Cities),January,1,6135
+Total (Cities),February,2,5698
+Total (Cities),March,3,5835
+Total (Cities),April,4,5457
+Total (Cities),May,5,5803
+Total (Cities),June,6,5759
+Total (Cities),July,7,5735
+Total (Cities),August,8,5893
+Total (Cities),September,9,5917
+Total (Cities),October,10,6043
+Total (Cities),November,11,5748
+Total (Cities),December,12,5887

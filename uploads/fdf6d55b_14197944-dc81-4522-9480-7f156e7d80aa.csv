@@ -1,0 +1,36 @@
+,Road category,Road organized by,Road type,2012,2013,2014,2015,2016,2017,2018
+0,District roads,District roads,Surfaced B.T/C.C,,,,,10415.0,10424.0,10365.0
+1,District roads,District roads,Surfaced W.B.M,,,,,4.0,0.0,59.0
+2,National highways,National highways,Four Lane & above,610.0,610.0,644.0,684.0,1023.0,1047.0,1097.0
+3,National highways,National highways,Less than 2 Lane,478.0,478.0,663.0,554.0,539.0,321.0,279.0
+4,National highways,National highways,Two Lane,1593.0,1593.0,1602.0,1672.0,1394.0,1588.0,1698.0
+5,Project roads,Border roads organization,Surfaced B.T/C.C,174.0,174.0,70.0,70.0,174.0,122.0,122.0
+6,Project roads,Border roads organization,Surfaced W.B.M,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Project roads,Coal Mine roads,Surfaced B.T/C.C,241.0,241.0,241.0,241.0,234.0,234.0,232.0
+8,Project roads,Coal Mine roads,Surfaced W.B.M,21.0,21.0,21.0,21.0,31.0,32.0,42.0
+9,Project roads,Electricity Department roads,Surfaced B.T/C.C,274.0,140.0,142.0,147.0,161.0,161.0,161.0
+10,Project roads,Electricity Department roads,Surfaced W.B.M,48.0,7.0,6.0,6.0,8.0,8.0,8.0
+11,Project roads,Forest Department roads,Surfaced B.T/C.C,3766.0,1255.0,1152.0,1152.0,400.0,400.0,429.0
+12,Project roads,Forest Department roads,Surfaced W.B.M,0.0,531.0,658.0,658.0,751.0,751.0,505.0
+13,Project roads,Irrigation Department roads,Surfaced B.T/C.C,371.0,594.0,835.0,894.0,916.0,716.0,716.0
+14,Project roads,Irrigation Department roads,Surfaced W.B.M,485.0,485.0,1264.0,1222.0,1275.0,1608.0,1608.0
+15,Project roads,SAIL & NMDC roads,Surfaced B.T/C.C,534.0,534.0,568.0,573.0,577.0,584.91,588.0
+16,Project roads,SAIL & NMDC roads,Surfaced W.B.M,24.0,25.0,33.0,40.0,44.0,30.4,28.0
+17,Project roads,Sugarcane Department roads,Surfaced B.T/C.C,,,,,,,
+18,Project roads,Sugarcane Department roads,Surfaced W.B.M,,,,,,,
+19,Rural roads,Panchayati Raj roads,Surfaced B.T/C.C,12774.0,12774.0,12774.0,12774.0,12774.0,12774.0,12774.0
+20,Rural roads,Panchayati Raj roads,Surfaced W.B.M,1910.0,1910.0,1910.0,1910.0,1910.0,1910.0,1910.0
+21,Rural roads,PMGSY roads,Surfaced B.T/C.C,,,15759.0,5646.0,20390.0,23138.0,26335.0
+22,Rural roads,PMGSY roads,Surfaced W.B.M,,,1799.0,492.0,5005.0,8637.0,6561.0
+23,Rural roads,PWD/RWD roads,Surfaced B.T/C.C,,,,,1426.0,1454.0,4588.0
+24,Rural roads,PWD/RWD roads,Surfaced W.B.M,,,,,0.0,0.0,26.0
+25,State highways,State highways,Surfaced B.T/C.C,4684.0,3952.0,3893.0,3697.0,3612.0,3262.0,3262.0
+26,State highways,State highways,Surfaced W.B.M,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,Urban roads,Engineering Service roads,Surfaced B.T/C.C,389.0,19.0,110.0,110.0,954.0,954.0,621.0
+28,Urban roads,Engineering Service roads,Surfaced W.B.M,0.0,,120.0,120.0,14.0,14.0,20.0
+29,Urban roads,Major Port roads,Surfaced B.T/C.C,106.0,106.0,106.0,107.0,104.0,107.0,106.0
+30,Urban roads,Major Port roads,Surfaced W.B.M,48.0,48.0,48.0,47.0,0.0,47.0,47.0
+31,Urban roads,Municipal roads,Surfaced B.T/C.C,59928.0,59928.0,59928.0,59928.0,59928.0,59928.0,59928.0
+32,Urban roads,Municipal roads,Surfaced W.B.M,4831.0,4831.0,4831.0,4831.0,4831.0,4831.0,4831.0
+33,Urban roads,Railway roads,Surfaced B.T/C.C,14664.0,453.0,851.0,854.0,905.0,903.0,943.0
+34,Urban roads,Railway roads,Surfaced W.B.M,96.0,115.0,161.0,165.0,168.0,166.0,176.0
